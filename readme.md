@@ -1,8 +1,10 @@
 使用proprot 来做1200条数据集，然后做论文里的评分，最后对照
 
 # TASK DESCRIPTION
-使用Prompt，来源[Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/abs/2301.08745)对数据集 zh.source 和 test.true.en，来源[YutongWang1216/CR-NMT/data/cr_testset](https://github.com/YutongWang1216/CR-NMT/tree/main/data/cr_testset)进行翻译，并对翻译结果进行评分，评分指标借鉴[Revisiting Commonsense Reasoning in Machine Translation: Training, Evaluation and Challenge](https://aclanthology.org/2023.acl-long.866/)等
- 
+<!-- 使用Prompt，来源[Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/abs/2301.08745)对数据集 zh.source 和 test.true.en，来源[YutongWang1216/CR-NMT/data/cr_testset](https://github.com/YutongWang1216/CR-NMT/tree/main/data/cr_testset)进行翻译，并对翻译结果进行评分，评分指标借鉴[Revisiting Commonsense Reasoning in Machine Translation: Training, Evaluation and Challenge](https://aclanthology.org/2023.acl-long.866/)等 -->
+测试指标
+用50条数据，一次翻译一个，看下是不是跟现在的结果一样，句子的前半部分一样
+
 # PROMPTS  
   
 TP1 
@@ -36,5 +38,5 @@ dataset/zh.source文件是中文数据集，每一行包含一个中文句子
 循环询问知道列表B的内容全部问完
 保存C到文件
 
-
+# CHATGPT API
 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
