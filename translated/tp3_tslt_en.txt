@@ -1,1200 +1,1200 @@
-The English translations for the given sentences are as follows:
-- The invention is by a great scientist.
-- The invention is a robot.
-- The concern is high scores.
-- The concern is someone who cares about you but you don't care about them.
-- The criticism is for a student who made a mistake.
-- The criticism is for a strict teacher in studying.
-- The fruit being harvested is in the orchard.
-- The fruit farmer being harvested is in the orchard.
-- The doctor operating is healthy.
-- The patient being operated on is critically ill.
-- The knowledge being taught.
-- The professor teaching is a professor.
-- The law being enforced.
-- The law enforcer is a law enforcement officer.
-- The rice being harvested is in the fields.
-- The child of a farmer being harvested is in the fields.
-- The computer room being managed.
-- The school being managed has a specialized administrator.
-- The prey being captured.
-- The hunter capturing.
-- The drum being played.
-- The drummer playing is someone who has been in the drumming industry for decades.
-- Playing the role of a dragon.
-- Playing the role of Jet Li.
-- Studying corporate culture.
-- Studying corporate researchers.
-- Leaping across the canyon.
-- Professional athletes leaping.
-- Discovering a new ancient civilization.
-- Discovered by an archaeology professor.
-- Surveying the economic development of towns.
-- Surveying by an economics professor.
-- Recording the experimental data.
-- Recording the experimental results.
-- A tourist being eaten by a crocodile.
-- A cat being eaten by a tourist.
-- Losing their beloved dog.
-- Bitten by a wild dog.
-- Digging watermelons with a spoon.
-- Peeling watermelons.
-- Fixing a table's legs.
-- Fixing a table with a hammer.
-- Touring a foreign country's president.
-- Touring a foreign country's tourist attractions.
-- A programmer searching for programs.
-- Code for searching programs.
-- Stones in three rivers.
-- Two pieces of stone in the river.
-- Two horses on the grassland.
-The batteries of three toy cars.
-The batteries of three toy cars.
+The invention is made by a great scientist.
+The invention is a robot.
+The concern is a high score.
+Those who care about you are the ones you don't care about.
+The student who made a mistake is being criticized.
+The strict teacher is being criticized.
+The fruits in the orchard are being harvested.
+The fruit farmers are currently harvesting in the orchard.
+The doctor who is currently operating is healthy.
+The patient undergoing surgery is in critical condition.
+What I am currently teaching is knowledge.
+The one I am teaching is a full professor.
+The law is being executed.
+The law enforcement officers are currently on duty.
+The rice in the fields is being harvested.
+The ones who are harvesting are the children of the farmers.
+The computer room is being managed.
+The person currently managing is a dedicated administrator of the school.
+The captured is the prey.
+The captivated is the hunter.
+The drum is being struck.
+The one being knocked and tapped on is a drummer who has been working in the drumming industry for decades.
+Playing the role of a dragon.
+The role played by is Jet Li.
+The research is on corporate culture.
+The study focuses on enterprise research personnel.
+The leap is the canyon.
+A professional athlete who leaps and bounds.
+The discovery is a new ancient civilization.
+The discovery was an archaeology professor.
+Investigate the economic development situation of the towns and villages.
+Researching the economic professors of the townships.
+Record the experiment data in a table.
+Record the results of the experiment.
+Ate the tourist's alligator.
+Ate the tourist's cat.
+Lost their adorable dog.
+Biting his family's stray dog.
+The spoon for digging watermelons.
+Peel the watermelon.
+Repair the table legs.
+The hammer for repairing the table.
+To visit another country's president.
+Visit tourist attractions in other countries.
+Programmer who searches for programs.
+Search for the code of the program.
+The stones in the Sanjiaoheli River.
+Three stones in the river.
+Two horses on the grass.
+Two horses on two patches of grass.
+Three sets of toy car batteries.
+The batteries for three toy cars.
 Four cameras on the table.
-Four cameras on the table.
+Four cameras on the tables.
 Two kitchen knives.
-Two kitchen knives.
-Four articles on newspapers.
-Four articles on newspapers.
-Visited a thousand-year-old architecture.
-Visited historical architecture for five hours.
-Selected wood for ten minutes.
-Selected thousand-year-old wood.
-Played a role for two minutes.
-Played a character from 500 years ago.
-Wrote five consecutive conference reports.
-Wrote conference reports for five hours in a row.
-Spoke about history for two hours.
-Spoke about history for a hundred years.
-Painted for six minutes.
-Painted six paintings.
-Completed five exam papers.
-Completed exam papers in five minutes.
-Sold fast goods.
-Sold expensive goods.
-Constructed fast buildings.
-Constructed huge buildings.
-Explored uninhabited areas.
-Explored clear areas.
-Watched exciting movies.
-Watched comfortable movies.
-Purchased smooth products.
-Purchased fragile products.
-Researched difficult problems.
-Researched clear problems.
-Operated easy machines.
-Operated important machines.
-Imprisoned fierce criminals.
-Imprisoned tightly secured criminals.
-Submitted homework to the teacher.
-Submitted red-colored homework.
-Donated library books.
-Donated foreign books.
-Gave birthday gifts to leaders.
-Gave birthday gifts.
-The legs of the blanket and chair are broken.
-The sleeves of his clothes and walking stick are dirty.
-The screen of the computer and chair need to be arranged neatly.
-The computer on the table and the sofa both need to be discarded.
-The security personnel and police officers working at this shopping mall are communicating outside the building.
-The birds in the sky and the fish are his hunting targets.
-The harvest is a diligent farmer.
-The harvest is delicious fruits.
-Creating is a scientist.
-Creating is a robot.
-The severe crackdown is on theft.
-The severe crackdown is on highly trained special police.
-The investigation is on this corruption case.
-The investigation is on the individuals involved in this corruption case.
-What is missed is this rare opportunity.
-What is missed is for athletes who have been waiting for this chance for a long time.
-The performance is by frontline actors from the province.
-The performance is of Sun Wukong from Journey to the West.
-What is launched is a groundbreaking mobile phone.
-What is launched is a great company.
-Research is conducted by frontline scientists.
-Research is in emerging fields on an international level.
-The study is on internationally renowned mathematical problems.
-The study is conducted by internationally renowned mathematicians specialized in solving mathematical problems.
-What is solved are five internationally renowned mathematical problems.
-What is solved are the contributions of five internationally renowned mathematicians.
-The cat that killed the landlord.
-The killer who killed the landlord.
-The studio staff that renovates houses.
-The room in the studio that is being renovated.
-The overall architecture of the code is being researched.
-The software architect who researches the overall architecture of the code.
-The internal structure of the Grand Palace is being visited.
-The individuals inside the Grand Palace are being visited.
-The economy of Iran is being sanctioned.
-The economic powerhouses sanctioning Iran.
-The economic level of a developing country is being developed.
-The economic expert who develops the economy of a country.
-The group involved in economic crimes is being cracked down.
-The police cracking down on economic crimes.
-The suspects in major cases are being investigated.
-The criminal investigators investigating the suspects in major cases.
-Travelers encountered during the process of enjoying traveling.
-The traveler who enjoys the process of traveling.
-A piece of clothing in the cupboard.
-A piece of clothing in a cupboard.
-Monks in three temples.
-The monks in the three temples.
+The knives in the two kitchens.
+The articles in the four newspapers.
+Four articles in the newspaper.
+Visited millennium-old ancient architecture.
+Visited ancient buildings for five hours.
+Selected ten minutes of wood.
+Selected a thousand-year-old wood.
+Played the role for two minutes.
+Played the role of a character from 500 years ago.
+I wrote 5 consecutive conference reports.
+I wrote the meeting report continuously for 5 hours.
+Spoke about history for 2 hours.
+Told a hundred years of history.
+I drew a picture for 6 minutes.
+I painted 6 pictures.
+Did 5 test papers.
+I did the exam paper for 5 minutes.
+Sales of fast-selling products.
+Sell expensive goods.
+Build quick buildings.
+Build a huge building.
+Explore uninhabited areas.
+The area that has been thoroughly investigated.
+Watch an exciting movie.
+Watch a comfortable movie.
+Smooth procurement of products.
+Purchase fragile products.
+Researching difficult problems.
+Research the problem thoroughly.
+Convenient to operate machine.
+Operate important machinery.
+Imprisoning fierce criminals.
+Imprisoning a tightly guarded criminal.
+Hand in your homework to the teacher.
+Hand over the red workbook.
+Donate books to the library.
+Donate books to foreign countries.
+Sent a birthday gift to the leader.
+Give a birthday gift.
+The legs of the blanket and the stool are both broken.
+His clothes sleeves and cane are both dirty.
+The computer screen and chair need to be neatly arranged.
+The computer and the sofa on the table both need to be thrown away.
+The security personnel working at this mall are communicating with the police outside the building.
+The birds and fish in the sky are his prey.
+The harvest is a hardworking farmer.
+The harvest is delicious fruit.
+The creation is a scientist.
+The creation is a robot.
+Severe crackdown is on theft.
+The severely cracked down ones are the well-trained special police officers.
+The investigation is about this corruption and bribery case.
+The investigation is about the personnel involved in embezzlement in this case.
+The missed opportunity is this rare chance.
+The missed opportunity is for the athletes who have been waiting for a long time.
+The performers are frontline actors from the province.
+The performance is Sun Wukong from Journey to the West.
+The smartphone launched is a revolutionary one.
+The company that was launched is a great company.
+Research is done by frontline scientists.
+The research field is an emerging area internationally.
+The research is on internationally renowned mathematics problems.
+The research is on internationally renowned mathematicians who specialize in solving mathematical problems.
+The solution is five internationally renowned math problems.
+The solution is five internationally renowned mathematicians.
+Killed the landlord's cat.
+The assassin killed the landlord.
+The personnel of the studio that decorates houses.
+The studio room for renovating the house.
+Study the overall architecture of the code.
+The overall architect of the code research.
+Visit the internal structure of the Grand Palace.
+Visitors to the Grand Palace's interior.
+Sanction Iran's economy.
+Sanctioning Iran is a major economic power.
+Developing the economic level of the country.
+Development of national economic experts.
+Dismantle the criminal gang involved in economic crimes.
+The police who combat economic crimes.
+Suspects investigated in major cases.
+Investigation of criminal police officers suspected of major cases.
+Travelers met during the process of traveling that I like.
+A traveler who enjoys the process of traveling.
+A piece of clothing in the wardrobe.
+Some clothes in a cupboard.
+The monk in the three temples.
+Three monks in the temple.
 Four computers on the table.
-The four computers on the table.
+Four computers on the table.
 Five phones on the bed.
-The five phones on the bed.
-Person on the cover of six magazines.
-The six individuals on the cover of the magazines.
-Fresh flowers in seven potted plants.
+Five phones on the bed.
+The cover person on six magazines.
+Cover personalities on six magazines.
+The fresh flowers among the seven potted plants.
 The fresh flowers in the seven potted plants.
 Eight coins in the wallet.
-Eight coins in the eight wallets.
-Actors in nine movies.
-Plot in nine movies.
-The teacher taught history for three days.
-The teacher taught a history of three thousand years.
-Performed a historical play for two days.
-Performed a historical play for two thousand years.
-Did homework for three days.
-Wrote three assignments.
+The coins in the eight wallets.
+The actors in the nine movies.
+The plot of nine movies.
+The teacher talked about history for three days.
+The teacher has taught history for three thousand years.
+Performed a historical drama for two days.
+Performed a historical drama that spans two thousand years.
+I have been doing homework for three days.
+I wrote three assignments.
 Sold cars for more than ten years.
-Sold a car that was over ten years old.
+Sold a car that has been owned for over ten years.
 I have been watching movies for over ten years.
-I watched a movie over ten years ago.
-Managed a store for over ten years.
-Managed a store for more than ten years.
-A historical turning point that was once important.
-A historical turning point of significant importance.
-Difficult goods to purchase.
-Inexpensive goods to purchase.
-Products that are difficult to sell.
-Cheap and low-quality products to sell.
-A TV drama with an exciting plot.
+I watched a movie from more than ten years ago.
+Ran the store for more than ten years.
+I have been running the shop for over ten years.
+Once an important turning point in history.
+Significant turning point in history.
+Difficult-to-purchase goods.
+Purchase inexpensive goods.
+Difficult-to-sell products.
+Selling cheap and inferior products.
+An exciting plot of a TV drama.
 An exciting TV drama in the evening.
-An atmosphere that feels pleasant.
-An atmosphere to enjoy happiness.
-Studying simple problems.
-Studying completed problems.
-Strict examiners to assess.
-Assessing backward students.
-The cat that the hunter bit to death.
-The tiger that killed the fox.
-The dog that the hunter killed.
-The tiger that the hunter killed.
-The chocolate that ate the cake.
+A pleasant atmosphere.
+Enjoy the joyful atmosphere.
+Study simple problems.
+The research is completed.
+Strict examiner.
+Study the students who are falling behind.
+The cat bit and killed the hunter.
+The tiger bit the fox to death.
+The hunter's dog was killed.
+The tiger killed the hunter.
+Ate the chocolate on the cake.
 The child who ate the cake.
-The girl who fell in love with a celebrity.
-Falling in love with a work by a celebrity.
-Wrongly blaming parents with good intentions.
-Blaming young children wrongly.
-Repairing the windows in the room.
-Repairing the room, the decorator.
-Sharks and tigers in the water are fierce animals.
-He took a photo of a bird and a cheetah in the air.
-Harvesting ripe fruits in the orchard.
-Harvesting fruits by professional orchardists.
-The doctor with the most clinical experience is performing surgery.
-The patient with a serious illness is undergoing surgery.
-Researching the economy of the township.
-The economist researching the economy of the township.
-Recording the entire process of the experiment.
-Recording the biologist of the experiment.
+The girl fell in love with a celebrity.
+Fell in love with the works of a celebrity.
+Wrongly blamed the parents' good intentions.
+Wrongly blamed the parents' little child.
+Repaired the windows in the room.
+Repaired the room's decoration worker.
+The sharks and tigers in the water are both fierce animals.
+He took a photo that captured both the bird in the sky and the cheetah.
+The harvested ones are the ripe fruits in the orchard.
+The ones who did the harvesting are professional fruit farmers in the orchard.
+The doctor who is currently performing the surgery is the most experienced in clinical practice at the hospital.
+The patient undergoing surgery is suffering from a serious illness.
+Conduct research on the economy of rural towns.
+Researching economists at the town level.
+Record the entire process of the experiment.
+The biologist records experiments.
 The knife for peeling apples.
-Peeling the skin of an apple.
-Repairing the legs of a wooden table.
-Repairing the saw for a wooden table.
-Three experimenters from the school.
-Experimenters from three schools.
-Furniture in five houses.
+Peel the apple.
+Repair the legs of the wooden table.
+The saw used to repair the wooden table.
+Three school lab technicians.
+The experimentalists from the three schools.
+Five pieces of furniture in the house.
 Furniture in five buildings.
-Ten TVs in the mall.
-Ten TVs in ten malls.
-Six chairs in the room.
-Six chairs in six rooms.
+Ten televisions in the shopping mall.
+TVs in ten shopping malls.
+There are six chairs in the room.
+Chairs in six rooms.
 Visited the century-old palace.
 Visited the palace for five minutes.
-Continuously doing homework for 2 days.
-Continuously doing 2 sets of homework.
-Drawing for 4 days.
-Drawing 4 pieces.
-The suspect's fearful emotions.
-The suspect's fearful scene.
+I did homework for two consecutive days.
+I completed two consecutive homework assignments.
+I have been painting for 4 days.
+I painted four paintings.
+The emotion of fear that the suspect is experiencing.
+The scene that the suspect is afraid of.
 Food with a unique taste.
-Northern unique cuisine.
-Rapidly selling products.
-Expensive products for sale.
-Congee that smells delicious.
-Tasting delicious congee.
-Comfortable sofa to touch.
-Buying a comfortable sofa.
-Dealing with cheap goods.
-Dealing with convenient goods.
-It's great that he got the first place in the exam.
-He did too well in the exam.
-Encouragement is for this behavior.
-Encouragement is from the encourager.
-The commendation is for this brave act.
-The commendation is from the award presenter.
-Cracking down on theft is the priority.
-Cracking down on well-trained special police.
-Investigation is about this case.
-Investigation is led by a special detective expert from the province.
-Seizure is for a large amount of smuggled goods.
-Seizure is carried out by officers who apprehend smuggled goods.
-Researching an internationally renowned mathematical problem.
-Researching by an internationally renowned mathematician.
-Decorating the bedroom of the house.
-Workers who are renovating the house.
-Programmers studying code.
-Studying the details of the code.
-The great man who changed the entire world.
-The pattern that changed the entire world.
-The key figure in solving this math problem.
-Partial content of solving this math problem.
-The traffic police investigating the traffic accident.
-The cause of the traffic accident being investigated.
-The process of enjoying traveling.
-The travelers who enjoy traveling.
+Unique food from the north.
+The fast-selling product.
+Sell expensive goods.
+The congee smells delicious.
+Taste delicious porridge.
+A comfortable sofa to touch.
+Choose a comfortable sofa.
+Buy cheap goods.
+Convenient goods for buying and selling.
+It's great that he came in first place in the exam.
+His exam results are too good.
+This behavior is encouraged.
+The encourager is an encourager.
+The commendation goes to this heroic behavior.
+The award recipient is the presenter of the award.
+The crackdown targets theft behavior.
+The one cracking down hard is the highly trained special police.
+The investigation is about this case.
+The survey is conducted by specially-appointed criminal investigation experts from the province.
+What was confiscated are a large quantity of smuggled goods.
+The officer who was caught was involved in smuggling activities.
+The research is on internationally renowned mathematical problems.
+The research is on internationally renowned mathematicians.
+Renovate the bedroom of the house.
+The construction workers for house renovation.
+A programmer who researches code.
+Study the details of the code.
+The great person who changed the whole world.
+Change the whole world's structure.
+The key figure to solve this difficult math problem.
+The partial solution to this math problem.
+The police officers investigating traffic accidents.
+Investigating the cause of the traffic accident.
+Enjoy the process of traveling.
+Travelers who like to travel.
 The clothes in two sets of cabinets.
-The clothes in two cabinets.
-The umbrellas on the three tables.
-The umbrellas on the three tables.
-The candles on the four cakes.
-The candles on the four cakes.
-The champion among the five matches.
-The champions among the five matches.
-The rifles in six storage rooms.
-The rifles in six storage rooms.
-The two tickets for the concert.
-The tickets for the two concerts.
-The experienced teacher in the school.
-The well-equipped teacher in the school.
-The army with well-equipped weapons.
-The soldiers equipped with well-equipped weapons.
+The clothes in the two cabinets.
+There are three umbrellas on the table.
+Three umbrellas on the table.
+Four candles on the four cakes.
+Four candles on four cakes.
+The champion of the five games.
+The champion of the five competitions.
+Six rifles in the warehouse.
+Six rifles in the warehouse.
+Two tickets for the concert.
+Tickets for two concerts.
+Experienced teachers with a wealth of school experience.
+The school has sufficient number of teachers.
+The army is equipped with sophisticated weapons.
+The soldiers in the army are well-equipped.
 Explain the problem clearly.
-Explain the complex problem.
-Inherit and develop traditional culture.
-Inherit traditional painting culture.
+Explain complex problems.
+Inheriting and developing traditional culture.
+Inheriting traditional cultural painting.
 Sold the hunter's dog.
-Sold the hunter's dog.
-Hurtful words.
+The hunter sold his dog.
+Hurtful words that have harmed others.
 Hurt someone's feelings.
-Moved the parents of the child.
-Touched the parents' hearts.
-Ignited the flame of revenge in the heart.
-Ignited the warm scene in the heart.
-Repaired the window in the room.
-The worker who repaired the room.
-A judge is in charge of the trial.
-A criminal is on trial.
-Taught by my teacher.
-Taught by students who love learning.
-Liked the style of this article.
-Liked by the young artist.
-Listened to the lyrics of touching music.
-The audience listening to touching music.
-Appreciated the charming scenery of the garden.
-The tourists who appreciate the charming scenery of the garden.
-Strolled in the space station in space.
-Astronauts strolling in space.
-The historical heritage was destroyed.
-The tourists without manners caused the destruction.
+The child moved their parents.
+Moved the hearts of the parents.
+Ignited the flames of revenge within the heart.
+Ignited the warm image in my heart.
+Repaired the windows in the room.
+The worker repaired the room.
+The judge is conducting a trial.
+The judgment is for a criminal.
+The one teaching is my teacher.
+The students who are taught are those who love to learn.
+I like the writing style of this article.
+The literature-minded youth who likes this article.
+Listen to the lyrics of touching music.
+The audience who listens to captivating music.
+Appreciate the enchanting scenery of the garden.
+Appreciating the garden, the tourists.
+Walking in the space station in space.
+The astronaut strolls in space.
+The historical landmarks are being destroyed.
+The disruptive ones are tourists without manners.
 The local protected animals were slaughtered.
-The greedy poachers carried out the slaughter.
-The flowers in the garden were trampled.
-The visitors trampled the flowers in the garden.
-The den of the bandits was besieged.
-The regular army besieged the den of the bandits.
-The territory of the rebels was captured.
-The regular army was captured.
-The mechanic repaired the car.
-The mechanic repaired the old car.
-The volunteers supported poverty alleviation.
-The elderly in impoverished areas were supported.
-The left-behind children in remote areas were supported.
-The enthusiastic volunteers in remote areas were supported.
-The result of the next match was predicted.
-The famous fortuneteller here predicted.
-The fortuneteller predicted the future fortune.
-The fortuneteller predicted the future.
-The total sum of the employees' salaries was calculated.
-The accountant calculated the employees' salaries.
-The person who establishes a political party.
-The party constitution established by the person who creates the political party.
-The climax of the musical piece was performed.
-The pianist performed the musical piece.
-Beethoven's major key was performed.
-Beethoven's music was performed.
-The class monitor was elected.
-The students in the class were running for election.
-The Han Dynasty artifacts were collected.
-The collector collected Han Dynasty artifacts.
-The target 100 meters away was shot.
-The professional sniper was shooting.
-Ten rings hit the target.
-The shooter hit the target.
-A river on the plain.
-A river on the plain.
+The slaughter was done by greedy poachers.
+Trample on the flowers in the garden.
+The tourist who tramples on the garden.
+Surround and annihilate the bandits' stronghold.
+The regular army surrounds and attacks the bandits.
+The captured territory belongs to the rebels.
+Conquered by regular military forces.
+The one who repairs is a car mechanic.
+The repaired car is old and dilapidated.
+The volunteers who provide assistance are volunteers who help poverty alleviation.
+The aid is for the elderly in impoverished areas.
+Assist left-behind children in remote areas.
+Enthusiastic volunteers who assist remote areas.
+The prediction is for the result of the next game.
+The prediction is for a famous fortune teller here.
+Predict the future fortune.
+Fortuneteller who divines the future.
+Calculate the total salary of the employees.
+Accountant calculating employee salaries.
+The person who established the political party.
+The party constitution for creating a political party.
+The climax of the musical performance.
+The pianist playing the musical composition.
+The performance is by Beethoven in major key.
+The performance is Beethoven's.
+The competition is for class monitor/monitor captain.
+The students in the class are running for election.
+The collection consists of Han Dynasty cultural relics.
+The collector specializes in collecting artifacts from the Han Dynasty.
+The target is 100 meters away for shooting.
+The shooter is a professional sniper.
+Hit the bullseye.
+The shooter who hit the target.
+A river on a plain.
+A river on a flat plain.
 Two desk lamps in the room.
-Two desk lamps in two rooms.
+The desk lamps in the two rooms.
+The mineral water on the three bottles table.
 Three bottles of mineral water on the table.
-Three bottles of mineral water on the table.
-Four test papers.
-Four test papers for four subjects.
+Four exam papers.
+The examination papers for four subjects.
 Five pairs of socks in the drawer.
-Five pairs of socks in five drawers.
-Six pills in the bottles.
-Six pills in six bottles.
-Admired the ancient village for several hours.
-Admired the ancient village from several hundred years ago.
-Studied foreign language courses for five hours.
-Studied five foreign language courses.
-I wrote six calligraphy copies.
-I wrote calligraphy copies for six days.
-Played a wonderful music piece.
-Played wonderful music for a day.
-Checked the bullets of the gun.
-Checked the police officer with a gun.
-Grants are given to financially disadvantaged students.
-Grants are given to national institutions.
-Three teachers from the examination hall gathered together to chat.
-Three teachers from three examination halls gathered together to chat.
-Rescued the victims of the disaster.
-Rescued by the firefighters.
-Studying the articles in the textbooks.
-Students studying the textbooks.
+Socks in five drawers.
+The pill in six bottles.
+Pills in six bottles.
+I have enjoyed several hours of ancient villages.
+I appreciated the ancient village that was hundreds of years old.
+I studied the foreign language course for five hours.
+I have studied five foreign language courses.
+I wrote six calligraphy exercises.
+I have been practicing calligraphy for six days.
+Played a beautiful piece of music.
+Played wonderful music all day long.
+Inspect the bullets of the firearm.
+The police officer is inspecting the firearms.
+The subsidy is for students from poor families.
+The subsidy is provided by the national institution.
+The teachers from three examination rooms gathered together for a chat.
+The teachers from three exam rooms gathered together to chat.
+The rescue is for the victims of the disaster.
+The rescuers are firefighters.
+Learning the articles in the textbook.
+Students studying textbooks.
 Building tall buildings in the city.
-Workers building the city.
+The workers who build the city.
 I read newspapers for ten days.
 I read ten newspapers.
-Doctors from three hospitals sat together for a meeting.
-Doctors from three hospitals sat together for a meeting.
-Performed serious programs.
-Performed interesting programs.
-Studied diligently in the course.
-Studied simple courses.
-Purchased difficult contraband items.
-Purchased rare contraband items.
-Sold the neighbor's exercise book.
-Sold excess exercise books.
-Gave gifts to leaders.
-Gave adult gifts.
-The birds and fish in the sky have a common ancestor.
-The clouds and rain in the sky intertwine with each other.
-Teachers and police officers in the school are both public servants.
-Teachers and students in the school live harmoniously.
-The oxygen and water in the air are indispensable.
-The oxygen and carbon dioxide in the air are indispensable.
-Two windows made of glass in the two rooms.
-Windows in the two houses.
-Questions from five exams.
-Questions from three exams.
-Theorems in two books.
-Theorems in two books.
-Cattle from four slaughterhouses.
-Cattle from four slaughterhouses.
-Chinese herbal medicine from two pharmacies.
-Chinese herbal medicine from two pharmacies.
-Books from one bookstore.
-Books from two bookstores.
-The examinee is carrying it.
-The test paper is being carried.
-An ivory is being traded.
-Two tycoons are conducting the transaction.
-An exciting story is being appreciated.
-An old man by the roadside is being appreciated.
-The history of this ancient building is being explained.
-A professional tour guide is explaining.
-A segment of video is being captured.
-A student who is searching for pictures is being captured.
-A difficult physics question is being calculated.
-The math class representative in our class is being calculated.
-An important football match is being commanded.
-A professional football coach is commanding it.
-A major engineering project is being led.
-The leader of this country is leading it.
-Math ability is being compared.
-Two math geniuses are comparing.
-A carpenter is carving.
-A piece of marble is being carved.
-The leader is checking the textbooks.
-The price of the textbook is being checked.
-The tail of the fish is being eaten.
-The fish is being eaten by the customer.
-Math formulas are being discussed.
-A math conference is being discussed.
-A towel is being used to wipe the table.
-The table legs are being wiped.
-The direction of getting lost on the road is being lost.
-The tourist is getting lost on the road.
-The answer to the truth is being revealed.
-The record of revealing the truth is being revealed.
-The scenes of reality are being recorded.
-A film of recording reality is being recorded.
-A veil covering the face is being used.
-Acne covering the face is being used.
-The solving method of the problem is being explained.
-The teacher who explains the problem is being explained.
-The list of goods is being retrieved.
-The leader who retrieves the goods is being retrieved.
+The doctors from the three hospitals sit together for a meeting.
+Three doctors from the hospital sat together for a meeting.
+The performance is a serious program.
+The performance has interesting programs.
+Study courses with diligence.
+Learn simple courses.
+Buying contraband is difficult.
+Purchase rare contraband goods.
+Sell neighbor's exercise book.
+Sell the extra exercise books.
+Give the leader a gift.
+Give a coming-of-age gift.
+The birds and fish in the sky all have a common ancestor.
+The clouds in the sky are interwoven with the rain.
+The teachers and police officers in the school both belong to public servants.
+The teachers and students in the school get along well.
+Oxygen and water are both indispensable in the air.
+Oxygen and carbon dioxide are indispensable in the air.
+Two glass windows in the room.
+The windows in the two houses.
+The title of the five exams.
+The questions for the three exams.
+The theorems in the two books.
+The theorems in both books.
+The cow from the slaughterhouse with four heads.
+Four cows in the slaughterhouse.
+The traditional Chinese medicine from two pharmacies.
+The traditional Chinese medicine at two drugstores.
+A book from a bookstore.
+The books from two bookstores.
+The person being carried is the examinee.
+The test paper is carried in between.
+The person conducting the transaction is an elephant.
+The two wealthy men are conducting a transaction.
+Taste is a wonderful story.
+The old man on the roadside is tasteful.
+The explanation is about the history of this ancient building.
+The guide is very professional in explaining.
+It is a segment of a video.
+The intercepted are students who are looking for pictures.
+The calculation is a relatively difficult physics problem.
+The calculation is our representative for the math class in our class.
+The conductor is leading an important soccer game.
+The person in charge is a professional soccer coach.
+The leadership is in charge of major engineering projects.
+The leader is the leader of this country.
+The competition is about mathematical ability.
+The two math geniuses are having a competition.
+The carving is of a carpenter.
+The sculpture is made of marble.
+Check the leader of the textbook.
+Check the price of the textbook.
+Eat the fish tail.
+The customer who is eating fish.
+Discussing mathematical formulas.
+Conference on discussing mathematics.
+The towel for wiping the table.
+The table legs that wipe the table.
+Lost direction.
+Lost tourists.
+The revelation of the truth's mystery.
+The record of exposing the truth.
+Record scenes of reality.
+Record the film of reality.
+Covering the face with a veil.
+Covered by acne on the face.
+Explanation of the method to solve the problem.
+The teacher who explains the topic.
+Retrieve the inventory list.
+Retrieve the leader of the goods.
 Government officials are inspecting private companies.
-The operation of private companies is being inspected.
-A fast stage is being constructed.
-A shining stage is being constructed.
-Careful bacteria are being cultivated.
-Small bacteria are being cultivated.
-Careless documents are being reviewed.
-Important documents are being reviewed.
-A slow building is being demolished.
-An old building is being demolished.
-When an earthquake strikes China, it is China that provides assistance.
-When an earthquake strikes Japan, it is China that provides assistance.
-What is opposed is the government, this corrupt government does not support mass gatherings.
-What is opposed is the government, the masses demand that this corrupt government undergo reforms.
-What is hunted is the tiger, the tiger population is rapidly decreasing.
-What is hunted is the tiger, it has a fast speed in chasing antelopes.
-Who gives the order are the senior military officers, they are required to attend a meeting this morning.
-Who gives the order are the senior military officers, the subordinate regiment is required to assemble immediately.
-What worries is the wife, the husband has been out of contact for a long time.
-What worries is the wife, I am worried about whether she can shoulder the entire family after I leave.
-Who cares is her mother, her mother made porridge for her when she was sick.
-Who cares is her mother, her mother is sick and needs care.
-What is opposed is Teacher Wang, Teacher Wang does not support this teaching plan.
-What is opposed is Teacher Wang, others believe that Teacher Wang's proposal is inappropriate.
-Even children don't believe it, this matter is too unbelievable.
-Even children don't believe it, because he is a suspicious person.
-The chicken is not eating because the chicken has eaten too much.
-The chicken is not eating because it has been eating chicken too often recently.
-Xiaoyang has not been found, Xiaoyang has not been seen all afternoon.
-Xiaoyang has not been found, Xiaoyang feels very frustrated.
-When Liu and Zhen were killed, the criticism was directed at Lu Xun's article.
-This person makes empty promises, the criticism is directed at Lu Xun's article.
-The investigation is carried out by students, because these students are witnesses of the incident.
-The investigation is carried out by students, because these students need to complete the homework assigned by the teacher.
-The mother taking care of the child, this woman stays by the child's side when the child is sick.
-The mother taking care of the child, she needs careful care after giving birth to the child.
-The teacher who respects the students, this is something that every student's parent should do.
-The teacher who respects the students always takes into account the students' suggestions.
-Caring for the employees of the company, these employees often work for the overall development of the company.
-Caring for the employees of the company, the boss needs to improve their living and lodging conditions.
-The enemy's sentry is discovered, this sentry needs to immediately report the situation.
-The enemy's sentry is discovered, we cannot let the enemy's sentry escape.
-Liking the girls in Shanghai, because the girls there pursue fashion.
-Liking the girls in Shanghai, because Shanghai is a prosperous city.
-The director's female secretary is implicated, because the secretary's wrongdoing leads to the director being held accountable.
-The director's female secretary is implicated, because the director's wrongdoing leads to the secretary being held accountable.
-The final exams are approaching and it is necessary to review the entire semester's material.
-No new knowledge will be taught this semester, it is necessary to review the entire semester's material.
-The daughter who dislikes her mother, this mother's son does not like his sister.
-The daughter who dislikes her mother, this mother's daughter has a strained relationship with her.
-Knocking down the little brother's bicycle, the little brother is angry about his bicycle being knocked down.
-Knocking down the little brother's bicycle, fortunately, the little brother was not injured.
-Because they will be away for many days, they prepared a day's worth of dry rations.
-Because they will be away for only one day, they prepared a day's worth of dry rations.
-When studying Lu Xun's works, it is usually necessary to include his birth and death.
-Studying Lu Xun's works is a necessity for the study of modern literature.
-The army that defeated the enemy is welcomed by the people upon returning home.
-The army that defeated the enemy still needs to pursue further.
-The father scolding the child, because the child did not do well on the exam.
-The father scolding the child, because this father has betrayed the marriage.
+Inspect the operation of private companies.
+Set up a fast stage.
+Build a shiny stage.
+Cultivate careful bacteria.
+Cultivate small bacteria.
+Review the sloppy documents.
+Review important documents.
+Demolish the slow-building.
+Demolish the dilapidated building.
+When earthquake struck China, it was China that received aid.
+When the earthquake struck Japan, it was China that provided assistance.
+Opposing is the government, this corrupt government does not support mass gatherings.
+The government is being opposed, and the people demand reform from this corrupt government.
+The hunting target is tigers, and the number of tigers is decreasing rapidly.
+The prey is a tiger, and its speed in chasing antelopes is very fast.
+The one giving orders is a senior military officer, who is required to attend a meeting this morning.
+The order is given by a senior officer, and the regiment under his command is requested to assemble immediately.
+The wife is worried because she has not heard from her husband for a long time.
+I am worried about my wife, as I don't know if she can shoulder the entire family after I leave.
+What she cares about is her mother, who stayed up all night to cook porridge for her when she was sick.
+What matters is her mother; her mother is sick and needs care.
+It is Teacher Wang who opposes it. Teacher Wang does not support this teaching plan.
+Opposing is Teacher Wang, while others believe that Teacher Wang's proposal is inappropriate.
+Even a child doesn't believe it, this thing is too fake.
+Even the children don't believe him because he is a suspicious person.
+The chicken is not eating anymore because it has already eaten too much.
+The chicken is not being eaten because recently we have been eating chicken too frequently and we are tired of it.
+Xiao Yang could not be found, and it has been an afternoon since Xiao Yang was last seen.
+Little Yang could not be found, and he felt very depressed.
+When Liu and Zhen were killed, Lu Xun's articles were criticized.
+This person bloviates, criticizing Lu Xun's articles.
+The investigation is focused on the students because these students are eyewitnesses to this incident.
+The investigation is about students, because these students need to complete assignments assigned by the teacher.
+The mother taking care of the child always stays by the child's side when the child is sick.
+The mother taking care of the child needs to be well taken care of after giving birth.
+Respecting students' teachers is something that every parent should do.
+Respecting the students, the teacher always takes their suggestions into consideration.
+Caring about the employees of the company, these employees often work from the overall situation of the company.
+Employers need to improve the living and accommodation conditions for their employees and show concern for them.
+I found the enemy sentry, this sentry needs to immediately report the enemy situation.
+I have discovered the enemy's sentry; we cannot let the enemy's sentry escape.
+I like Shanghai girls because they all pursue fashion.
+I like Shanghai girls because Shanghai is a bustling city.
+The female secretary involved the director, as her illegal actions led to the director being held accountable.
+The female secretary of the director was implicated because of the director's illegal actions, which led to her being held accountable.
+The final exams are approaching quickly, and it is necessary to review the material from an entire semester.
+This semester does not teach new knowledge, but requires reviewing the lessons of one semester.
+The daughter dislikes the mother, and the son of this mother does not like his younger sister.
+Dislike the mother's daughter, this mother's daughter has a bad relationship with her mother.
+Knocking down his brother's bicycle, the brother was very angry about his bicycle being knocked down.
+I knocked down my younger brother's bicycle, fortunately he wasn't injured.
+Because they were going to travel for many days, they prepared a day's worth of dry food.
+Because as long as they go on a trip for one day, they will prepare a day's worth of food.
+Research on Lu Xun's articles generally includes his date of birth and death.
+Studying Lu Xun's articles is necessary for the research of modern literature.
+Defeating the enemy's army, this army was welcomed by the people after returning home.
+To defeat the enemy's forces, further pursuit is needed.
+The father scolded his child because the child didn't do well on the exam.
+The father who scolds his child, because this father betrayed the marriage.
 Please show me the research materials.
-Research materials are a must for every researcher.
+Research material is a must-do task for every researcher.
 Imported food is relatively expensive in terms of price.
 Imported food is not allowed by the policies of this country.
-Investigation materials must be submitted before the deadline.
-Investigation materials sometimes require collaboration among multiple people.
-She is a child born last year, and she is almost 1 year old now.
-She is a child born last year, and her child is almost 1 year old now.
-The survival environment of taxis has been squeezed by online car-hailing services.
-Taxis are growing into a new market.
-He was injured while playing basketball on campus, please take him to the school hospital immediately.
-The school hospital is one of the two most crowded public places.
-Literary language is closely related to two humanities disciplines.
+The investigation materials must be submitted before the deadline.
+Sometimes, conducting research requires collaboration among multiple individuals.
+She is a child born last year, and now she is almost 1 year old.
+She is a child born last year. Her child is almost 1 year old.
+The taxi industry has been squeezed out by ride-hailing services.
+The taxi industry is growing into a new major market.
+He got injured while playing on campus, please send him to the school hospital immediately.
+The school and hospital are the two places with the most people.
+The study of literature and language is two closely related disciplines within the humanities.
 Literary language refers to the language used in literary works.
-Biohistory is a subject leaning towards the sciences, while literature leans towards the humanities.
-Biohistory refers to the history of biology.
-Other countries' affairs will be discussed at the next national conference.
-Other countries' affairs will be discussed at the next international conference.
-Ancient war novels refer to novels about ancient wars.
-Ancient war novels refer to war novels written in the ancient times.
-African language research refers to the specialized study of African languages.
-African language research refers to the establishment of a language research institute in Africa.
-New faculty dormitories are specifically provided for new faculty members.
-The new faculty dormitory is a newly built dormitory in the school.
-He has owned this car for 5 years and wants to get a new license plate for a new car.
-He just bought this car and wants to get a new license plate for it.
-College English teachers refer to teachers who teach college English.
-College English teachers refer to teachers who teach English at college.
-The leaders of the two schools spoke at the same opening ceremony, one after the other.
-The leaders of the two schools signed agreements on mutual cooperation between the schools.
-There are six children from three kindergartens in the park, a total of 6 children playing games.
-There are three kindergartens in the park, and they are all in the same class.
-There are two party members in the office, attacking each other's party views.
-There are two party members in the office, campaigning for party chairperson.
-Workers from three factories are drinking together, each ordering one bottle, a total of 3 bottles of wine.
-Workers from three factories are drinking together, each ordering one bottle, a total of 10 bottles of wine.
-There are doctors from five hospitals in this building, discussing cooperation between their respective departments.
-There are doctors from five hospitals in this building, discussing cooperation within their respective hospitals.
-The members of the two teams have known each other as good friends since childhood.
-The members of the two teams performed an exciting game in the gymnasium for the audience.
-Several waiters at the entrance of the restaurant argued because they wanted to bring customers to their respective restaurants.
+Biological history, one leans towards the science field, and one leans towards the humanities field.
+The term biological history refers to the history of biology.
+The affairs of other countries will be discussed in the next national conference.
+The affairs of other countries will be discussed at the next international conference.
+Ancient war novels refer to novels about ancient warfare.
+Ancient war novels refer to war novels written in ancient times.
+African language studies refer to the specialized study of African languages.
+African Language Research is a language research institute established in Africa.
+The new faculty dormitory is specially provided for the new faculty.
+The new faculty dormitory is a newly built dormitory for school faculty.
+He has had this car for 5 years and he wants to buy a new license plate for it.
+He just bought this car, and he wants to buy a new license plate for it.
+The term "college English teacher" refers to a teacher who teaches college-level English.
+The term "university English teacher" refers to a teacher who teaches English at a university.
+The leaders of the two schools spoke one after another at the same opening ceremony.
+The leaders of the two schools have signed agreements for mutual cooperation between their respective schools.
+There are children from three kindergartens in the park, and a total of 6 children are playing games.
+There are children from three kindergartens in the park, and they are in the same class.
+There are two party members inside the office, and they are attacking each other's party views.
+There are two party members in the office, and they are running for party chairman.
+The workers from three factories were drinking together, with each person ordering one bottle, making a total of three bottles of alcohol.
+The workers from three factories gathered together to drink. Each person ordered one bottle, and a total of 10 bottles of alcohol were ordered.
+There are doctors from 5 different hospitals in this building, and they are discussing the collaboration between departments in the hospitals.
+There are doctors from five hospitals in this building, and they are discussing cooperation within their respective hospitals.
+The players of both teams have been good friends who know each other since they were children.
+The players from both teams put on a wonderful game for the audience in the sports arena.
+Several waiters at the entrance of the restaurant started arguing because they wanted to attract customers to their respective restaurants.
 Several waiters at the entrance of the restaurant were chatting because there were no customers.
-There are two vases on the chair, which were bought collectively by his two friends.
-There are two vases on the chair, which were bought collectively by his three friends.
+There are two vases placed on the chair that were given by two friends. These vases were bought collectively by his two friends.
+On the chair are two vases given by friends. These vases were purchased jointly by his three friends.
 Everyone expressed their gratitude for his help.
 He repaid everyone's help with practical actions.
-He looked at cats in three pet shops and finally decided to buy a cat from the middle one.
-He looked at cats in three pet shops and finally decided to buy the cutest one from the middle.
-The police from two cities have signed a cross-city cooperation agreement to combat crime.
-Police from two cities are patrolling the streets.
-Xiao Ming was greatly inspired, and it was the teacher who encouraged him.
-Giving subsidies to teachers encourages them.
-Because the teacher taught the class diligently, they were commended.
-For students who study diligently, the teachers commended them.
-His father performed the surgery because his father is a doctor.
-His father performed the surgery because his father was seriously ill.
-This is a photo I took last year, my photography skills were very good at that time.
-This is a selfie I took last year, it's a good one.
-Officials from the province are being investigated, and this matter has alarmed the central government.
-Officials from the province are being investigated, and they are very dissatisfied with the situation in various cities.
-The performance is by Jay Chou, and he sang a famous song.
-The performance is by Jay Chou, this imitation expert is very good at imitating famous singers.
-The subsidy is for high-tech companies, this is a government policy.
-The subsidy is for high-tech companies, users can benefit a lot.
-The protest is against the Iraqi government, the people are very dissatisfied with it.
-The protest is against the Iraqi government, they strongly condemn the United States.
-The military operation targeted the US military forces, the White House is very angry about it.
-The military operation targeted the US military forces, they carried out airstrikes on ground targets.
-The person bidding farewell is Teacher Wang, and the students are all very sad.
-The person bidding farewell is Teacher Wang, he wishes the students a smooth journey.
-The troops surrounding the bandits can assemble at any time.
-The troops surrounding the bandits require regular army deployment.
-Teachers who love the school are constantly working hard at the forefront of teaching.
-Teachers who love the school also love their hard work and dedication.
-The people who miss their hometown are always thinking about going back.
-The people who miss their hometown have the emotions that every traveler would have.
-The individuals protesting against the opposition party are gathering to celebrate.
-The individuals protesting against the opposition party, I believe justice will prevail.
-The troops discovered the enemy's forces and immediately launched an attack.
-The troops who discovered the enemy's forces were the reconnaissance troops.
-When meeting a friend's teacher, I greeted the teacher.
-When meeting a friend's teacher, I greeted the teacher.
-Visiting the neighbor's parents, I also brought many gifts.
-Visiting the neighbor's parents, I thanked the neighbors for taking care of me these days.
-The books researching the Spring and Autumn Period are kept in the library.
-The books researching the Spring and Autumn Period are helpful for understanding that period of history.
+He looked at the cats in three pet shops and finally decided to buy a cat from the middle shop.
+He looked at cats in three pet shops, and finally decided on the cutest one from the middle.
+The police of the two cities have signed a cross-city cooperation agreement to crack down on crime.
+The police of two cities are patrolling the streets.
+Xiao Ming was greatly encouraged, and the encouragement came from the teacher.
+Distributing subsidies to teachers encourages them.
+Due to the teachers' seriousness in teaching, they were praised.
+For diligent students in class, they are commended by teachers.
+His father performed the operation because his father is a doctor.
+His father had a serious illness and underwent surgery.
+This is a photo taken by me last year. At that time, my photography skills were very good.
+This is a photo I took last year, and it is a nice selfie.
+The investigation involves officials from the provincial government, and this matter has alarmed the central authorities.
+The investigation is about officials in the province, they are very dissatisfied with the situation in each city.
+The performer is Jay Chou, and he sang a famous song.
+The performer is Jay Chou, this skilled imitator is very good at imitating famous singers.
+The subsidies are for high-tech companies, this is a government policy.
+The subsidy is for high-tech companies, and users can benefit greatly.
+The protest is against the Iraqi government, and the people are very dissatisfied with it.
+The protest is against the Iraqi government, who strongly condemns the United States.
+The attack targeted the US military forces, and the White House is very angry about it.
+The US military forces were targeted and they carried out airstrikes on ground targets.
+The one being sent off is Teacher Wang, and all the classmates are very sad.
+The one who bids farewell is Teacher Wang, he wishes the students a smooth journey.
+The troops encircling the bandits can gather at any time.
+The regular army needs to be deployed to encircle and suppress the bandits.
+Love the teachers in the school, always fight in the frontline of teaching.
+Love the teachers of the school, and love their hard work and dedication.
+The people who miss their hometown constantly want to go back.
+The longing for hometown is a feeling that every wanderer will have.
+People who overthrow the opposition party gather together to celebrate.
+I believe justice will prevail and the people who oppose it will be brought down.
+Upon discovering the enemy's troops, our army immediately initiated the attack.
+We discovered the enemy's troops, it is our military reconnaissance team.
+I greeted the teacher of my friend when we encountered each other.
+I greeted the teacher of my friend when I met them.
+Visited the parents of the neighbors and brought many gifts.
+I visited the parents of my neighbor and thanked them for taking care of me these days.
+The books studying the Spring and Autumn period are kept in the library.
+Studying books about the Spring and Autumn period is very helpful for understanding that period of history.
 Insulting someone's parents is not a good example for children.
-Insulting someone's parents is not a polite behavior.
-Tourists observing the garden are discussing the garden design.
-Tourists observing the garden, their footsteps are all in a hurry.
-Killing the neighbor's child, who was only a few years old.
-Killing the neighbor's child, the perpetrator fled.
-The principals of five schools are gathered together.
-The teachers from five schools and their principals, Principal Wang stood together.
-The drummers from two bands are arguing about who is the first drummer of the band.
-The drummers from two bands are arguing about who is the first in the band.
-The residents from two communities are discussing whose housing prices have risen again.
-The residents from two communities are discussing the level of the affiliated hospital in their community.
-The employees from three factories went out to eat and discussed going to ask the boss for a raise together.
-The employees from three factories went out to eat and discussed the treatment (higher) in their respective factories.
-1. There are two fans of a celebrity here, discussing tonight's concert by Jay Chou.
-2. There are two fans of a celebrity here, arguing about whose work is better between Jay Chou and Cai Xukun.
-3. The leaders of five colleges are discussing holding a joint alumni event for the five colleges.
-4. The leaders of five colleges are discussing how to become the top college in the school.
-5. There are two vases on the windowsill, both of which were given by two friends who are both my good friends.
-6. There are two vases on the windowsill, both of which are very beautiful.
-7. The Chinese Culture Expo Center encompasses various cultures from hundreds of countries.
-8. The Chinese Culture Expo Center showcases the millennium-long cultural development of China.
-9. Elementary school Chinese teachers refers to Chinese teachers in elementary school.
-10. Elementary school Chinese teachers refers to teachers who teach Chinese in elementary school.
-11. The Taiwan Institute of Chinese Characters is located in Taipei and is dedicated to the research of Chinese characters.
-12. The Taiwan Institute of Chinese Characters is dedicated to promoting the development of Chinese characters in mainland China's research on Taiwan.
-13. The Suzhou Auto Expo showcases self-developed automobile brands from Suzhou.
-14. The Suzhou Auto Expo showcases automobile brands from around the world.
-15. So many devices were produced in one quarter, which is amazing.
-16. So many devices were produced in one quarter, which is terrible.
-17. The person repairing the car is in a hurry because he still needs to drive out.
-18. The person repairing the car is in a hurry because the customer has been urging him.
-19. I don't like anyone because I don't have money.
-20. I don't like anyone because I am strong.
-21. Teacher Wang has already notified, and Teacher Wang will be here soon.
-22. Teacher Wang has already notified, and all the students already know.
-23. The partially damaged instrument is half of all the damaged instruments.
-24. The partially damaged instrument is so completely damaged that it cannot be repaired.
-25. Translating novels is not a good job.
-26. Translating novels sometimes cannot compare to the original, so it's not a good job.
-27. Imported milk powder doesn't always have to be better than domestic milk powder.
-28. Companies that import milk powder need to obtain approval from the country.
-29. I can't write this report well because my identity is sensitive.
-30. I can't write this report well, but I know you can.
-31. Teachers hope students won't give gifts but instead send their blessings on Teachers' Day, as intentions are more important than material objects.
-32. Teachers hope students won't give gifts but instead send their blessings on Teachers' Day, as nothing is needed.
-33. The friend who came is a friend of both the older brother and the younger brother, as the two brothers have the same social circle.
-34. The friend who came is a friend of the older brother, but the older brother doesn't know the friend of the younger brother.
-35. I only know about Konyeechi when it comes to articles about Lu Xun.
-36. Many people have written articles about Lu Xun.
-37. The teacher has already received feedback on opinions from the students.
-38. The students have humbly accepted feedback on opinions from the teacher.
-39. There are many children who like cleanliness.
-40. Many people like children who like cleanliness.
-41. Xiao Li tells interesting stories, and everyone loves listening to Xiao Li.
-42. Xiao Li tells interesting stories and suggests that everyone should go listen.
-43. He suddenly remembered that he hadn't eaten yet.
-44. He suddenly remembered to go eat.
-45. He didn't expect this question to be so simple.
-46. He didn't expect to figure out the solution to this question.
-47. He is easy to talk to, and everyone feels that they get along well with him.
-48. He is easy to talk to and once he starts talking, he is unstoppable.
-49. He still owes 1000 yuan, but finally paid off the debt.
-50. He still owes 1000 yuan and plans to pay off the debt next year.
-The female employee working at the bank is arguing with a man who claims to be the owner of a company.
-The female employee working at the bank is arguing with a man because he cut in line at the bank.
-The mob is chasing, and they spotted a lone police officer.
-The mob is chasing, and the mob encountered a group of police officers.
-The doctor who is treating the patient is performing his duty.
-The doctor who is treating the patient has already resigned due to illness.
-The police are searching, as they received a report from the public that a criminal is nearby.
-The police are searching, and this police officer went missing during the process of chasing the suspect.
-The teacher is evaluating, as this teacher wants to know the students' academic performance in the class.
-The teachers are taking the teacher qualification exams.
-The homeless man is helping, as he rushed into the fire and saved many people.
-The homeless man who is helping hasn't eaten for many days.
-The officer is reporting, as this official wants to reduce his own responsibilities.
-The public has been dissatisfied with this official's corruption for a long time.
-The parents are educating, as this couple believes that their child's education should not solely rely on the school.
-The parents are educating, as they frequently indulge their child in misconduct.
-The child is being deceived, as the mother doesn't have money to buy toys for the child.
-The child is being deceived, as the mother is very obedient to the child.
-The director is being praised, as his film is excellent.
-The director is being praised, as he is very satisfied with the actors' performances.
-The workers of the factory are criticizing, as these workers haven't received their wages for a long time.
-The workers of the factory are criticizing, as these workers frequently slack off.
-The officials of the township government are inspecting, as this township government has been reported for corruption.
-The officials of the township government are inspecting, and they are welcoming the arrival of superiors.
-The children are scared, as today is Halloween.
-The children are scared, as this child often cries.
-The colleague is being congratulated, as this colleague has just been selected as an outstanding talent.
-The colleague is being congratulated, as this colleague is happy about his wedding.
-A leader is welcoming, as this leader wants to make a good impression on the visiting boss of a big company.
-A leader is welcoming, as this leader is inspecting the local work.
-If fish in the two rivers experience geographical isolation, they will evolve in different directions.
+Insulting other people's parents is not a polite behavior.
+Observing the tourists in the garden, they were discussing garden design.
+Observing the tourists in the gardens, the footsteps of the tourists are all hurried.
+He killed the neighbor's child, and he is only in his teens.
+The neighbor's child was killed, and the murderer escaped.
+The principals of five schools gathered together.
+The teachers of the five schools and their principals, Principal Wang, stood together.
+The drummers of the two bands are arguing about who is the first drummer in the band.
+The drummers of the two bands are arguing about who is the drummer of the first band.
+The residents of two communities are discussing whose housing prices have risen again.
+The residents of the two neighborhoods are discussing the level of the affiliated hospital in their neighborhood.
+The employees from three factories went out for a meal and discussed together about approaching the boss to ask for a raise.
+The employees from three factories went out for lunch and discussed the (relatively high) treatments in their respective factories.
+There are two fans of a celebrity over here, discussing tonight's Jay Chou concert.
+There are two fans of celebrities here, arguing about whose work is better between Jay Chou and Cai Xukun.
+The leaders of the five colleges are discussing, organizing a gathering for the five colleges.
+The leaders of the five colleges are discussing how to become the top college in the school.
+On the windowsill are two vases given by two friends, both of whom are my good friends.
+On the windowsill are two vases given by two friends, and both vases are very beautiful.
+The China Culture Expo Center encompasses various cultures from hundreds of countries.
+The Chinese Cultural Exhibition Center showcases China's thousand-year history of cultural development.
+The elementary school Chinese teacher refers to the Chinese teacher at the elementary school.
+The primary school Chinese language teacher refers to the teacher who teaches Chinese language in primary school.
+The Taiwan Institute for Chinese Character Research is located in Taipei, dedicated to studying Chinese characters.
+The Taiwan Institute of Chinese Character Research is committed to promoting the development of Chinese characters in mainland China studying Taiwan.
+The Suzhou Auto Show showcased Suzhou's independently developed automobile brands.
+The Suzhou Car Exhibition showcased car brands from all over the world.
+It's great that so many devices were produced in just one quarter.
+It is awful to produce so many devices in just one quarter.
+The car repairman is getting frantic because he still needs to drive out.
+The mechanic was in a hurry because the customer kept urging him.
+I do not look up to anyone because I do not have money.
+I don't like anyone, because I am very strong.
+Teacher Wang has been informed and he will come right away.
+Teacher Wang has already notified, and all the students know.
+The partially damaged instrument is half of the completely damaged instrument.
+The partially damaged equipment was severely destroyed and cannot be repaired.
+Translating novels is not a good job.
+Translating novels sometimes doesn't measure up to the original version, it's not a good job.
+Sometimes imported milk powder may not necessarily be better than domestically produced milk powder.
+Imported milk powder needs to be approved by the government before a company can proceed.
+I cannot write this report well because my identity is sensitive.
+I cannot write this report well, I know you can write it well.
+On Teachers' Day, teachers hope that students won't give gifts but instead give blessings. The sincerity is more important than material things.
+Teachers hope that students do not give gifts on Teacher's Day, but instead just send their wishes; they don't need anything.
+The person who came is a friend of the older brother and younger brother. The two brothers have the same social circle.
+The person who came is the friend of the older brother and younger brother, the older brother doesn't know the younger brother's friend.
+Regarding articles about Lu Xun, I only know about "Kong Yiji".
+Many people have written articles about Lu Xun.
+The teacher has already received the opinions of the teachers.
+The students all humbly accepted the teacher's opinions.
+There are many children who like cleanliness.
+Many people like clean children.
+Xiao Li said that telling stories is very interesting and everyone loves to listen to Xiao Li's stories.
+Xiao Li said the story is very interesting, Xiao Li suggested that everyone should go and listen.
+He suddenly remembered that he hasn't eaten yet.
+He suddenly remembered to go eat.
+He couldn't think of it, it turned out that this question was so simple.
+He couldn't think of what the solution to this question was.
+He is easygoing and everyone finds it easy to get along with him.
+He is an easygoing person, once he starts talking, he never stops.
+He still owes 1000 yuan, but finally he has paid off his debt.
+He still owes 1000 yuan, and he plans to repay this 1000 yuan next year.
+The female employee working in this bank is arguing with a man who claims to be the boss of a company.
+The female employee working in this bank is arguing with a man because he cut in line while conducting business at the bank.
+The pursuer is a mob, and these mobsters spotted a lone police officer.
+The one being chased is the rioter, and this rioter ran into a group of police officers.
+The person treating the illness is a doctor. This doctor is performing his duty.
+The person who is currently treating the illness is a doctor, and this doctor has already resigned due to illness.
+The search is for the police, who received a report from the public that a criminal is nearby.
+The search is for a police officer who went missing during the process of chasing a criminal.
+The exam is about the teacher, and this teacher wants to know the students' level of academic performance in the class.
+The examination is for teachers, and the teachers are currently taking the teacher qualification exam.
+The one who helped was a homeless man, and this homeless man rushed into the fire and saved many people.
+The one being helped is a homeless person who hasn't had anything to eat for many days.
+The report is against the official because this official wants to lighten his own guilt.
+The report is about an official, and the public has long been dissatisfied with the corruption of this official.
+The responsibility of education lies on the parents, as they believe that a child's education should not solely depend on the school.
+Parents are responsible for education because these parents often indulge their children in doing bad things.
+The one being deceived is the child, because the mother really doesn't have money to buy toys for the child.
+The one being deceived is the child, because this mother is very obedient to the child.
+Admire the director, this director's movies are very good.
+The director deserves appreciation as he is very satisfied with the performances of the actors.
+The factory workers are being criticized because they haven't been paid for a long time.
+Criticize the workers in the factory because they often slack off.
+Inspect the officials of the township government; the township government has been reported to have corruption problems.
+Inspecting the officials of the town government, this township government welcomes the arrival of higher-level authorities.
+The children are scared because today is Halloween.
+The child who is scared is because this child often cries.
+Congratulations to my colleague, who was just selected as an outstanding talent.
+Congratulations to the colleague, who is happy for his new marriage.
+The reception was for a leader who wanted to make a good impression on the visiting boss of a large company.
+The welcoming is a leader who came to inspect the local work.
+If the fish in the two rivers experience geographical isolation, they will evolve in different directions.
 The fish in the two rivers were caught by a fisherman at the same time.
-The senior management of the five educational institutions are in a meeting, as they want to share the information of their students.
-The senior management of the five educational institutions are in a meeting, as they are discussing the operational situation of the institutions this year.
-The babies from the four cities were just born in the same hospital.
-The babies from the four cities have different cultural and customs backgrounds in their birthplaces.
-The professors from the six colleges are teaching different aspects of computer science.
-The professors from the six colleges are teaching different majors.
-The ordinary cashiers from the three supermarkets earn different salaries.
-The employee numbers of the ordinary cashiers from the three supermarkets are consecutive.
-The celebrity is being cheered, as this celebrity received the Best Actor Award.
-The fans are calling out for the celebrity, as this fan saw the secret celebrity at the airport.
-The parliament member is boycotting, as this member feels unfairly treated.
-The parliament member is boycotting, as this member made incorrect remarks.
-His sister likes, but his sister doesn't like anyone.
-His sister likes, and she has been pursuing someone who doesn't like her back.
-Parents of students are asked to attend a parent meeting that only allows parents to be present.
-Parents of students are chatting about their opinions according to the school's arrangement.
-The TV remote control needs new batteries.
-The TV remote control requires batteries of the same brand.
-The general Wang is being tried, as he committed treason.
-The general Wang is being tried, and he is sentenced to 10 years in prison.
-Xiao Li is teaching us this skill, step by step.
-Xiao Li is teaching, and I taught him this technique.
-I like this article, it's written very well.
-Students like new things.
-Xiao Li is skeptical, he has a skeptical attitude towards anything new.
-Xiao Li is skeptical because his behavior has been very abnormal recently.
-The politician Wang is supportive, he strongly supports this proposal.
-The politician Wang is supportive, and the citizens are all voting for him.
-Teacher Li is disliked, none of the students like him.
-Teacher Li is disliked, he really dislikes this behavior.
-Iraq is sending troops, the US has mobilized a large number of troops.
-Iraq is sending troops, they are sending a division.
-Even he is worried, you're really overthinking it.
-Even he is worried, this matter is indeed difficult.
-Even I don't believe it, it's actually true.
-Even I don't believe it, who else can you believe?
-The disgruntled employee insults the company, he is very dissatisfied with it.
-The disgruntled employee insults the company and its leaders.
-The northerners like it here because there is heating in the winter.
-The northerners like it here because they are very generous.
-Bullying Xiao Li is equivalent to bullying Xiao Li.
-The classmates who bully Xiao Li were severely criticized by the teacher.
-The troops that overcame the rebels need to mobilize a regular army of 100,000.
-The troops that overcame the rebels have already gathered together.
-The family members who care for the employees are the employees' strong support.
-The family members who care for the employees are the best care for the employees.
-The students who love the school should be done by every principal.
-The students who love the school always consider the reputation of the school.
-Xiao Li regrets involving his family.
-Xiao Li's family is sorry for involving Xiao Li.
-The superior who implicated the leader made the leader very sorry.
-The superior who implicated the leader directly implicated himself.
-Once a celebrity offends the public, they are no longer a celebrity.
-Once a celebrity offends the public, they are criticized by the celebrity's fans.
-The troops that besieged the bandits can gather at any time.
-The troops that besieged the bandits must act quickly.
-The people who miss their hometowns, I think about it all the time.
-The people who miss their hometowns will return to their hometowns for the New Year.
-The individuals who oppose them in overthrow are celebrating together.
-The individuals who oppose them in overthrow and their accomplices.
-When the enemy's troops are discovered, our army immediately launches an attack.
-The enemy's troops were discovered by our advance troops.
-The pedestrians who observe the garden appear to be very happy.
-The pedestrians who observe the garden are all in a hurry.
-Her mother cares for her, her mother personally cooked porridge to take care of her.
-Her mother cares for her, her mother is already over seventy.
-Employees who care for the company deserve praise.
-Employees who care for the company need to improve their living and accommodation conditions.
-He wrote a two-hour speech, which means he will speak for two hours.
-He wrote a two-hour speech, but he has not finished writing it yet.
-There are two masters from two associations serving as judges in this calligraphy competition, representing their respective associations.
-There are two masters from two associations serving as judges in this calligraphy competition, and they are key figures in the Calligraphy Association.
-We cannot afford the respect we have for him.
-The respect we have for him stems from his noble character.
-I am deeply grateful for his encouragement.
-His encouragement deeply motivates him.
-I directly answered his doubts.
-His doubts spread among the people.
-The fear of him stems from the lack of understanding towards him.
-The teacher patiently comforted him about his fear.
-The residents of two cities are discussing which city will have a better developmental future.
-The residents of two cities are discussing the newly elected mayor, Wang.
-The leaders of three countries are having a meeting to discuss each country's energy policy.
-The leaders of three countries are having a meeting to discuss their respective countries' military expenditure this year.
-The participants in the competition are students from three sports schools, and they all want to bring glory to their own schools.
-The participants in the competition are students from three sports schools, and they are from the same class.
-The players from two teams are practicing on the playground in order to win the championship this year.
-The players from two teams often practice against each other.
-Those who give up on beautiful women often pursue something more important in the spiritual world.
-This man chose to leave by giving up on the beautiful woman.
-The school leaders held a special workshop for his criticism.
+The top management of five educational institutions is having a meeting, and they want to share the student information of the institutions.
+The top executives of five educational institutions are having a meeting to discuss the business performance of their institutions this year.
+The babies in these four cities were just born in the same hospital.
+The cultural customs background of the four cities where the babies are located is different.
+Professors from six different colleges teach various aspects of computer science.
+Professors from six colleges are teaching different subjects.
+The cashiers at the three supermarkets have different salaries.
+The employee numbers of the ordinary cashiers in the three supermarkets are consecutive.
+The shout is for the celebrity who has won the Best Actor award.
+The shout is for the celebrity, the fan saw this secret celebrity at the airport.
+Boycott the parliament member because he feels he has been treated unfairly.
+Boycott the parliament's member because this member made incorrect statements.
+He likes his sister, but his sister does not like anyone.
+What he likes is his sister, but his sister has been pursuing him despite him not liking her.
+Parents of students are required to attend a parent meeting that only allows parents to be present.
+The parents of the students are chatting about their views on each other under the arrangement of the school.
+The TV remote control needs to have its batteries replaced.
+The TV remote control requires to be of the same brand.
+The general Wang is being prosecuted, and he has committed treason.
+The general Wang is being tried, and he sentenced the criminals to 10 years in prison.
+The one teaching is Xiao Li, he personally taught us this skill.
+The one being taught is Xiao Li, and I taught him to learn this skill.
+I like this article. It is written very well.
+I like students, and students all like new things.
+The suspect is Xiao Li, who has a skeptical attitude towards anything new.
+The one being suspected is Xiao Li because his recent behavior has been very abnormal.
+The senator who is supported is Congressman Wang, who strongly supports this bill.
+The people voted for Congressman Wang, showing their support for him.
+The dislike is Li teacher, classmates don't like him.
+The disliked person is Teacher Li. Teacher Li hates this kind of behavior very much.
+Iraq is the one sending troops, and the United States has deployed a large number of troops.
+The country that sent troops is Iraq. Iraq deployed the forces of one division.
+Even he is worried, you are indeed thinking too much.
+Even he is worried, this matter is indeed very difficult.
+Even I don't believe it, this thing is actually true.
+Even I don't believe it, who can you still trust?
+He scolded the company's employees and was very dissatisfied with his company.
+Insulting company employees as well as company leaders.
+I like the guys from the north because there is heating in the north during winter, that's why I stay here.
+I like the guys from the north because they are very generous.
+Bullying Little Li’s classmates is equivalent to bullying Little Li.
+The classmates who bullied Xiaoli were severely criticized by the teacher.
+To defeat the rebel army, it is necessary to deploy a regular army of 100,000 troops.
+The troops that have defeated the rebels have already gathered together.
+Caring for employees' families is the strong support behind the employees.
+Caring for employees' families is the best care for employees.
+Students who love their school are something every principal should strive for.
+Students who love their school always think about the reputation of the school.
+Causing trouble for Xiao Li's family, Xiao Li deeply regrets it.
+I am very sorry for causing trouble to Xiao Li's family.
+Implicated the leader's superiors and made the leader very sorry.
+Implicated the leader's superiors and made the leader confess directly.
+If a celebrity offends the public, they will no longer be a celebrity.
+Offending the public as a celebrity can lead to being attacked by the fans of the celebrity.
+The troops encircling the bandits can assemble at any time.
+The task of encircling and suppressing the bandits is an urgent matter that cannot be delayed.
+I miss the people in my hometown. I think about going back all the time.
+People who miss their hometown will return home for the New Year.
+People who oppose the government are gathered together to celebrate.
+Overthrow the individuals who oppose, as well as their accomplices.
+Upon discovering the enemy's troops, our army immediately launched an attack.
+I found the enemy's forces, it is our vanguard force.
+Observing the pedestrians in the park, they all seem very happy.
+Observing the pedestrians in the garden, all of them were walking hurriedly.
+What concerns her is her mother, who personally boiled porridge to take care of her.
+What is concerning is her mother, who is already over seventy years old.
+Employees who care about the company are worth praising.
+Caring for employees in the company, we aim to improve their living accommodation and benefits.
+He spent two hours writing his speech, which means he will speak for two hours.
+He spent two hours writing the speech, but he has not finished writing it yet.
+In this calligraphy competition, there are two masters from two associations who serve as judges, representing each association respectively.
+In this calligraphy competition, two masters from different associations came as judges, they are the core figures of the Calligraphy Association.
+We cannot afford to disrespect him.
+The respect for him stems from his noble character.
+I am extremely grateful for his encouragement.
+His encouragement deeply inspired him.
+I directly answered his confusion.
+The doubts about him spread among the people.
+His fear originates from his lack of understanding about him.
+The teacher patiently comforted him regarding his fear.
+The residents of the two cities are discussing which city will have a better future development.
+The residents of the two cities are discussing the newly elected Mayor Wang.
+The leaders of three countries are having a meeting to discuss the energy policies of each country.
+The leaders of three countries are having a meeting to discuss their respective military expenditure for this year.
+The participants of the competition are students from three sports schools, and they all want to bring glory to their respective schools.
+The students participating in the competition are from three sports schools and they are from the same class.
+The players from both teams are practicing on the playground for this year's championship.
+The players from both teams are practicing on the playground, and they often practice against each other.
+Abandoning beautiful women often means pursuing a more important spiritual world.
+The man chose to leave the beautiful woman and gave up on her.
+The school leaders held a special seminar to discuss their criticisms of him.
 He had already anticipated the criticism from the school leaders.
-There are three of us in a group, which can be divided into two groups.
-There are three of us in a group, and we complement each other perfectly.
-A youth hair salon has opened downstairs, specializing in haircuts for young people.
-A youth hair salon has opened downstairs, and all the hairstylists are young people.
-The county notified us to report before the 15th, and it won't be possible after the 15th.
-The county notified us to report before the 15th, and only that day is acceptable.
-I have been reading the newspaper for ten days, one copy per day.
-I have been reading the newspaper for ten days, and I finished reading each day's copy.
-Doctors from three hospitals came to the school, including the Peking Union Medical College Hospital, the Municipal Hospital, and the Provincial Hospital.
-Doctors from three hospitals came to the school, and all of them are from the Peking Union Medical College Hospital.
-He just came to the school and didn't know anyone except for his desk mate.
-He just came to the school and didn't know anyone, and nobody talked to him.
-Hurry up and call a taxi, there aren't many people on the road, so drive faster.
-Hurry up and call a taxi, there are a lot of cars here, so it's easy to get one.
-The rational suggestions from the three workers are very good.
-The rational suggestions from the three workers were discussed and approved by the labor union one by one.
-The economic loss plus the litigation fee is 4000 yuan, totaling 8000 yuan.
-The economic loss plus the litigation fee are all borne by the driver.
-Leave the water for the people who come in the evening to drink, but the latercomers will all be thirsty.
-Leave the water for the people who come in the evening to drink, but there won't be any water to buy by the evening.
-I only knew you when you were thirty years old, and I was still a child.
-I only knew you when you were thirty years old, and you were still a child.
-My mother was very happy to see me and asked why I was so happy.
+The three of us can be divided into two groups.
+The three of us are in a group because we complement each other well.
+There is a new youth hair salon downstairs, specializing in haircuts for young people.
+There is a new youth hair salon opened downstairs, and all the hairstylists are young.
+The county informed us to report before the 15th, if we go on the 15th it won't be possible.
+The county notified us to report before the 15th, only that day is possible.
+I read newspapers for ten days, one each day.
+I have been reading newspapers for ten days, and I finished reading them all in one day.
+Three doctors from different hospitals have come to the school, including Concord Hospital, Municipal Hospital, and Provincial Hospital.
+Three doctors from different hospitals came to the school, all of them are from the Peking Union Medical College Hospital.
+He just came to school, nobody knows him, he is only familiar with his desk mate.
+He just came to school, nobody knows him, and nobody talks to him.
+Please call for a car quickly, there aren't many people on the road, so drive faster, it's fine.
+Please call a car quickly, there are a lot of cars on this side, it's very easy to call one.
+The reasonable suggestion of the three workers is a very good suggestion.
+The reasonable suggestions of the three workers were discussed and approved by the labor union one by one.
+The economic loss together with the litigation fee is 4000 yuan in total.
+The economic losses and litigation costs of 4000 yuan are all borne by the driver.
+Leave the water for the people who come later to drink, the later people are all thirsty.
+Leave the water for the people coming in the evening to drink, by night you won't be able to buy water anymore.
+I was only thirty years old when I met you, I was still a child.
+I met you when you were only thirty years old, you were still a child.
+Mom saw that I was very happy and asked me why I was so happy.
 My mother was very happy to see me because she hadn't seen me for a long time.
-He criticizes you for doing something wrong, so you should listen to him.
-He criticizes you for doing something wrong, but you haven't done anything wrong.
-He wants to involve the cadres from the same village in drug trafficking.
-After school, these students agreed to go swimming in the reservoir together.
-Devouring an enemy division.
+He criticizes you for doing it wrong, so you should listen to him.
+He criticized what you did as wrong, but you didn't do anything wrong.
+He wants to pull the fellow villagers who are officials to get involved in drug trafficking together.
+After school, these few students agreed to go swimming at the reservoir together.
+Eat away the enemy's battalion.
 He likes to eat apples.
-Until now, they haven't arranged housing for me, so I had to wander around at night.
-Our troops are constantly ambushing the enemy.
-Many people started doing business in the 1990s.
-The fishermen by the seaside make a living by fishing in the sea.
-He is really dull and foolish.
-There are some rotten wood pieces mixed in the materials used for this furniture.
-He is someone who often loses things.
+Until now, they haven't arranged accommodation for me, so I have to wander around at night.
+Our troops are guerrilla attacking the enemy everywhere.
+In the 1990s, many people started their own businesses.
+The fishermen by the seaside make a living by going out to sea to catch fish.
+He is a piece of rotten wood.
+There is some rotten wood mixed in the materials of this piece of furniture.
+He is a person who often loses things.
 He loves to wear red clothes.
 The police have stationed several people here.
-The train station has installed automatic ticket machines.
-The flood season has passed and the river is calm.
-Only when the country is peaceful, can we carry out good construction.
-His offense does not warrant an administrative warning.
-If you commit a crime, you must be punished by law.
-He received orders to remove the enemy from the lookout tower.
-Rubbing with a fire cupping jar twice can alleviate the pain.
-The security department strictly guards the door, so no one can take any company property out without permission.
-Speaking too much will lead to making mistakes, so one should be cautious with one's words.
-Glanced at him.
-Made a trip in vain.
-He is able to guess riddles with a 100% success rate.
-He is a sharpshooter who never misses his target.
-You talk too fast.
-He has a big mouth.
-Our country has its own national situation, adopting someone else's management methods completely won't work.
-Move the flowerpot onto the balcony.
-He has a stern face, appearing very angry.
-The ground is hard and not suitable for plowing.
-At that time, the international students had to stay for one year in preparatory courses.
-My family lives on a barren hill.
-This piece of land is not fertile.
-The shelves are too thin to withstand the weight of the books.
+The train station has installed automatic ticket checking machines.
+The flood season has passed, and the river is calm.
+National stability is essential in order to carry out good construction.
+His offense is not serious enough to warrant an administrative warning.
+If you commit a crime, you must face legal punishment.
+He received orders to evacuate the enemy's guard tower.
+Rub the fire cup twice, and the pain will be relieved.
+Several people from the Defense Department guard the door very strictly, no one is allowed to take any public property out of the factory.
+Speaking too much will lead to mistakes, one should have a door on their mouth.
+He gave him a cold look.
+Went for nothing.
+He guesses riddles with 100% accuracy.
+He is a sharpshooter, hitting the target every time.
+Your mouth is too fast.
+His mouth is not small.
+Our country has its own national conditions, and completely copying other countries' management methods is not feasible.
+Move the flower pot to the balcony.
+He had a straight face and appeared very angry.
+The ground is very hard and difficult to plow.
+At that time, international students had to attend a one-year preparatory course.
+My home is located on a loess hill.
+This piece of land is not thin.
+The shelves are too thin to withstand the weight of books.
 The ministers are preparing to submit a memorial.
-A group of students are singing the national anthem.
-A bullet takes out an enemy.
-This batch of wrenches needs to be returned to the factory and new ones need to be obtained.
-Effectively manage work and study.
-Actions are guided by thoughts.
-The children in this room need to be disciplined.
+A group of students is playing the national anthem.
+One bullet takes down one enemy.
+These wrenches need to be reimbursed and new ones should be obtained from the factory.
+Reasonably manage work and study.
+Action is governed by thought.
+The child in this room needs to be disciplined.
 This bicycle needs to be repaired.
 He quoted ancient texts multiple times in his article.
-He is skilled at recruiting undiscovered talents.
+He excels in recruiting untapped talents.
 He forced his parents to buy a piano.
-The army has already encroached on the outskirts of the city.
-Making clothes by comparing the body.
-This year is no worse than previous years.
-After dinner, taking a walk is his obligatory course.
-Modern Chinese is our obligatory course.
-The chain and gears are stuck together.
-You must tell the truth and not slander others.
-We will never let our motherland's territory change.
+The army has already reached the outskirts of the city.
+Make clothes while comparing the body.
+This year is not the same as previous years.
+Taking a walk after dinner is his compulsory course.
+Modern Chinese is a compulsory course for us.
+The chain and gear have caught on.
+You should tell the truth and not bite others indiscriminately.
+We will never let the country's landscapes change color.
 This advertisement paint has good quality and does not change color.
-In this National Games, our province sent four hundred athletes to participate in the competition.
-After the Battle of Huaihai started, the participating troops of the People's Liberation Army totaled about 500,000.
+In this National Games, our province has sent 400 athletes to participate.
+After the Huaihai Campaign started, the total number of troops from the People's Liberation Army was approximately 500,000.
 He dismounted and gestured to the audience.
-This project has been canceled.
+This project has been discontinued.
 This engineer is a big fool.
 The director used a straw bag as a grain bag.
-If you don't study hard, you won't improve.
-His athlete's foot has been cured.
-These soldiers have raided homes twice.
-He is taking notes today after not coming to class yesterday.
-He entered the business world without any foundation and is now the chairman of a company.
-The model dedicated herself to art by posing nude.
-The watch he wore walked for 3 minutes.
-He walked for 3 minutes.
-Please put these two sentences together.
-He is exploring the streets and alleys of this beautiful city.
-Spring is blossoming in the hearts of the two young people.
-Spring is in full swing.
+If you don't study diligently, you can't achieve good results.
+His athlete's foot has healed.
+These soldiers have already ransacked houses twice.
+He who didn't come to class yesterday is copying notes.
+He entered the business world with nothing, and now he is the chairman of a company.
+The model is naked, devoting herself to art.
+The person wearing the watch walked for 3 minutes.
+This person has been gone for 3 minutes.
+Please string these two sentences together.
+He is strolling through the streets and alleys of this beautiful city.
+Spring is rippling in the hearts of the two young people.
+The spring is in full bloom.
 This cat is running around everywhere.
-The surging river water is higher than the bridge.
-He is sending a telegram that the military urgently needs.
-He is attacking the person he dislikes.
+The river water surges higher than the bridge.
+He is sending a telegram that the military urgently needs to receive.
+He is hitting the person he dislikes.
 There are many shops on this street that can be used as jewelry stores.
-He doesn't think this matter is a big deal.
-That woman is spitting out feces from her mouth.
-In residential areas without sanitation facilities, residents pour their feces into designated carts every morning.
-He drew a line under his name.
-There is no way ahead, where are you going?
-This shop is using inferior goods to replace genuine ones.
-The store has already been substituted.
-As soon as he entered the exam room, he felt nervous.
-He gets nervous at the slightest inconvenience.
-The corruption of the director has finally been uncovered recently.
+He does not regard this matter as something significant.
+That woman is spewing filth from her mouth.
+In residential areas without sanitary facilities, residents dump waste into designated trucks every morning.
+A road was drawn underneath his name.
+There's no road ahead, where are you going?
+This store substitutes defective products with genuine ones.
+The store has been pushed out.
+As soon as he entered the examination room, he started feeling nervous.
+Slightly dissatisfied, he becomes irritated.
+The corruption case of the director finally went off the rails recently.
 The road in this area is prone to accidents.
-His hobby is burying himself in books.
+His hobby is reading books.
 Drill a small hole in the wall.
 Selling the spiritual opium of the bourgeoisie.
-Trafficking drugs.
-After hearing his comforting words, a warm stream surged in his heart.
-This warm flow brings abundant food resources to this ocean.
+Selling drugs.
+After hearing his comforting words, a warm current surged in my heart.
+This warm current brings abundant food resources to this ocean.
 His words are simply auctioning off youth.
-His painting was auctioned for $10,000.
-Working at the bank is very profitable.
-This dress is a bit loose.
-Boiling scenes of mass movement.
+His painting was auctioned off for $10,000.
+Working at a bank is well-paid.
+This dress is a bit big.
+The scene of a boiling mass movement.
 Boiling soup.
-Comrades from the investigation team distribute to various places.
-Comrades from the investigation team distribute labor protection supplies.
-Please do not disperse your attention while handing out flyers.
-Please distribute the flyers in your hands.
-This year has had good weather, and the autumn scenery for farmers must be beautiful.
-The autumn scenery in this tourist city is beautiful.
-Gathering information.
+The members of the investigation team are distributed to various places.
+The members of the investigation team distributed labor protection supplies.
+Please do not distract your attention when distributing flyers.
+Please distribute the pamphlets in your hands.
+This year, with favorable weather conditions, the autumn scenery for farmers must be very good.
+The autumn scenery of this tourist city is very beautiful.
+Find out the news.
 Listening to the sound of the wind outside the window, he didn't sleep all night.
-Take this medicine with warm water.
-Don't use power to oppress people, but convince them with reason.
-He is an experienced person.
-Since the age of fourteen, he has been wandering around.
-He has risen and fallen several times in the officialdom; he is very experienced.
-The small boat floats and sinks on the sea with the waves.
+This medicine should be taken with warm water.
+Do not oppress people with power, but persuade them with reason.
+He is an experienced player.
+He has been wandering around the world since he was fourteen years old.
+He has risen and fallen several times in the officialdom and is very experienced.
+The little boat rises and falls with the huge waves on the sea.
 The construction workers are building a shopping mall specifically for selling quilts.
-In this cold weather, he only covers himself with one blanket to sleep.
-The teacher marked many corrections on his essay.
-He held a long pole in his hand.
-When singing reaches a high pitch, his voice can't reach it.
-What he says sounds high-toned, but it's not easy to achieve.
+On such cold days, he only covers himself with a blanket to sleep.
+The teacher drew many marks on his composition book.
+He is holding a long rod in his hand.
+When singing at a high pitch, his voice couldn't reach up there anymore.
+The content of what he said is quite impressive, but it's not easy to achieve.
 His writing plan has stalled.
-The cargo ship has run aground; they need to find a way to transport it by land.
-The main force has launched an assault on the enemy's buildings.
-After two years of research and development, this technical problem has finally been solved.
-This artifact is still unknown as to which year it is from.
-People who have interacted with him consider him a relic.
-The windshield wipers on the car are scraping the glass.
-The couple often argue with their parents.
-He still worries about the company's affairs in his heart.
-The moon is hanging in the sky.
-It's not easy to get things done; any step could get stuck.
-Whenever it rains, she feels pain in her joints all over her body.
-I'm used to waking up early, so sleeping in feels uncomfortable to me.
+This cargo ship has run aground, we have to find a way to transport it by land.
+The main force has launched an assault on the enemy's building.
+After two years of research and development, we finally solved this technical problem.
+The exact year of this antique is still unknown.
+People who have communicated with him all think that he is an antique.
+The windshield wipers on the car are wiping the glass.
+This couple often quarrels with their parents.
+He still has the matter of the factory on his mind.
+There is a moon hanging in the sky.
+It's not easy to handle things, every step may encounter difficulties.
+Whenever it rains, she feels pain and tenderness in all her joints.
+I'm used to getting up early, so I feel uncomfortable sleeping in.
 Nowadays, some families often spoil their children.
-He did something he shouldn't have done, and he feels guilty.
-The parents at home often use ghost stories to scare children.
-He has an idea in his heart regarding this matter.
+He did something he shouldn't have done, and has a guilty conscience.
+Parents at home often use ghost stories to scare children.
+He has a plan in mind regarding this matter.
 A beam of light passing through a prism will form a spectrum.
-Weeds grow rampant.
+Wild grass grows without restraint.
 Car accidents happen frequently.
-He managed to obtain a lot of fine liquor through the back door.
-Not far from the back door, there is a small pond.
-Old man Ding is extremely skilled; even his daughter cannot match him.
-This family has lost its skills; there is no one left.
-Kindergarten teachers carefully cultivate the flowers of our motherland.
-Even the most beautiful flowers wither eventually.
-The company has hired several figureheads specifically for entertaining guests.
-An empty living room has a beautiful vase on display.
-The widespread landslide caused by heavy rain has received high attention from the government.
-The number of trees collected by this factory has been declining, leading to consistently low production.
-He is on his way home to write a letter to him.
-He is sitting in a car on his way back home.
-He decided to go back to school last year and take the university entrance exam again.
-These waste copper need to be recycled.
-After inspecting here for 3 months, the Discipline Inspection Commission made a sudden change.
-He gave the enemy a sudden attack on the battlefield.
-He shouted into the valley, but all he received was an echo.
-He pressed the doorbell for a long time, but didn't get any response from inside the house.
-His speech is full of gunpowder.
-The battlefield is full of gunpowder.
-A good work needs to go through multiple refinements.
-Good steel needs to go through multiple refinements.
-The child has been working hard to prepare for the college entrance examination, don't put more pressure on him.
-Leftover rice is best reheated before eating.
-This guy is too heavy and hard to lift.
-This guy doesn't have good intentions.
-A plan must have corresponding and reasonable measures to avoid being disregarded.
-This building is elevated, with a height of 5 feet from the ground.
-Before writing a novel, you need to set up the framework for the story.
-There is a big bookshelf in his home.
-Watermelons are very cheap this year.
-He is just a despicable person.
-Most of the goods sold in the second-hand market are cheap and inferior.
-He is just a cheap and worthless person.
+He got a lot of famous wine from the back door.
+There is a small pond not far from the back door.
+Uncle Ding is skilled at this technique, even his daughter cannot do it.
+This house has closed down completely, there are no people left.
+The kindergarten teachers carefully cultivate the flowers of our country.
+Even the most colorful flowers wither at times.
+The company hired several vases, which are specifically for entertaining guests.
+There is a beautiful vase in the unmanned living room.
+The large-scale landslide caused by torrential rain has attracted high attention from the government.
+The quantity of trees collected by this factory has been declining, resulting in consistently low production.
+He is on his way home to write the letter for him.
+He is sitting on the car and going home.
+He went back to school last year, hoping to take the college entrance exam again.
+These waste copper need to be melted down.
+After inspecting here for 3 months, the Discipline Inspection Commission gave another turnaround.
+On the battlefield, he gave the enemy a sudden attack.
+He shouted loudly into the valley, but all he received was an echo.
+He pressed the doorbell for a long time, but received no response from inside the house.
+His words are full of gunpowder.
+The battlefield is filled with the smell of gunpowder.
+A good work has to go through repeated tempering.
+Good steel must go through multiple temperings.
+The child has been working hard to prepare for the college entrance examination (gaokao), please don't put any more pressure on him.
+Reheating the cold rice before eating is the best.
+This guy is too clumsy and hard to move.
+This person does not have good intentions.
+The plan must have corresponding and reasonable measures to avoid being overruled.
+This house is elevated and is 5 feet off the ground.
+Before writing a novel, you need to first establish a framework for the story.
+There is a large bookshelf in his home.
+This year, watermelons are very cheap.
+He is really mean.
+The things sold in the second-hand market are generally of low quality.
+He is just a scumbag.
 He plans to order four dishes.
-The patient is calling his wife's name.
-This couple quarreled indoors again because of their child.
-This troop encountered the enemy during their march.
+The patient's mouth uttered his wife's name.
+This married couple started arguing again indoors because of the children.
+This troop engaged in a firefight with the enemy while on the move.
 He can untie this shoelace in just 10 seconds.
 This math problem is very difficult to solve.
-The phone ringing interrupted his words.
-This big tree was cut in half.
-He sold his friend for his own benefit.
+The telephone ringing interrupted his words.
+This big tree has been cut in half.
+For the sake of profit, he sold his friend.
 He sells eggs at the school gate.
 He entered a shoe store.
-He received a batch of shoes.
+He bought a batch of shoes.
 I don't want to poach employees from other companies.
-There are many bricks stacked in the corner.
-It's time to pay the janitors at the end of this month.
-The room is stuffy, we need to open the windows.
-If you want to achieve great things, you will definitely stumble along the way.
-The road is slippery, be careful not to slip.
-The factory loses millions of yuan.
-His body has deteriorated after working continuously for several days.
-He has finally let go of his worries and troubles that have troubled him for a long time.
-The autumn leaves have fallen to the ground one after another.
-His research on pregnant women is likely to encounter difficulties under current research conditions.
+There are many bricks piled up in the corner of the wall.
+At the end of this week is the time to pay the salary for the cleaning staff.
+The room is stuffy, it needs to be opened the window.
+If you aim to achieve great success, you will definitely encounter setbacks.
+The road is slippery, be careful not to slip and fall.
+The factory lost several hundred thousand yuan.
+His body suffered losses after working continuously for several days.
+He finally relieved his long-lasting worries.
+The leaves are falling one after another in the autumn.
+His research on pregnant women is prone to difficulties under current research conditions.
 Middle-aged women are more likely to have difficult childbirth during pregnancy.
 This sentence is quoted from an ancient book.
 He quotes only his relatives.
-This engine has a high internal friction.
-There is a lot of internal friction within their department.
-He stood far away to catch the ball.
-He plans to take over the position of the factory director.
-As soon as his hand touched the fire, he pulled it back.
-We have already made contact with the enemy.
-Let's cool down this matter first.
+The internal friction of this engine is very serious.
+The internal friction within their department is very serious.
+He stands at a distance to catch the ball.
+He intends to take over the position of the factory director.
+As soon as his hand came into contact with the fire, he immediately pulled it back.
+We have made contact with the enemy.
+Let's cool down on this matter for a while.
 Let's cool down this hot tea first.
-He is already old.
+I am already old.
 There are 365 days in a year.
-He has a deep and rich voice.
-He is a generous person and is highly respected by everyone.
-Children like to tug at others.
-I brought you up by tugging you.
-This well-known enterprise is the leader in the industry.
-Please ask the master to fix the faucet.
-He kept kneading the play dough in his hand.
-This is the new thing he kneaded out.
-He twisted his waist while working.
-He twisted his own bad habits.
+He has a deep and mellow voice.
+He is a generous person, deeply respected by everyone.
+Children like to pull and tug on others.
+I raised you.
+This well-known company is the leader in the industry.
+Please ask the master to come and fix the dragon head.
+He keeps kneading the clay in his hand.
+This is the new thing he made by molding.
+He twisted his waist while he was working.
+He broke his own bad habit.
 He twisted his body and walked unsteadily.
-His soul was distorted by this matter.
-When encountering an earthquake, he immediately lay down.
-At the slightest difficulty, he immediately gives up.
-They are shooting scenes of waves crashing against the embankment.
-They are shooting a movie.
-He is good at bribing and soon climbed the ladder to become the bureau chief.
-When visiting the Forbidden City, we saw the imperial throne of the Qing dynasty.
-In modern times, even university diplomas cannot guarantee good jobs.
-Please go and put up the sign at that intersection.
-To depart from one's homeland.
-To deviate from the correct principles.
+His soul has been twisted by this matter.
+When he encountered the earthquake, he immediately crouched down.
+Encountering a little difficulty, he immediately got down.
+They are filming a scene of the waves crashing against the embankment.
+They are filming a movie.
+He is good at bribing and soon climbed to the position of bureau chief.
+When visiting the Forbidden City, we saw the throne of the Qing Dynasty emperors.
+In modern times, only having a college degree does not guarantee finding a good job.
+Please go and erect the sign at that intersection.
+Depart from homeland.
+Deviate from the correct principles.
 He likes to climb steep cliffs.
-He likes to flatter his boss.
-This chess game has already entered an endgame.
-To tidy up the remnants of this matter.
+He enjoys sucking up to his boss.
+This game has entered into an endgame.
+Tidy up the aftermath of this matter.
 The market is not good now, quickly sell off the goods in hand.
-He was ordered to throw the ball in his hand.
-This person is really useless, he can't do anything well.
-There is no food in the rice bucket.
-The power of cannons in the army is great.
-The government has regulated that firecrackers cannot be set off at home during the Lunar New Year.
+He was commanded to throw the ball in his hand.
+This person is really useless, can't do anything well.
+There is no rice in the rice bucket.
+The firepower of the artillery in the army is very powerful.
+The government stipulates that fireworks are not allowed at home during the Chinese New Year.
 This teacher is diligently cultivating his students.
 This gardener is carefully cultivating his plants.
-These clothes are all genuine fur.
-Regarding this field, I only know the superficial knowledge.
-Let's meet again next week.
-Their chosen topics clashed.
-Please give this book a layer of leather.
-His hand lost a layer of skin.
+These clothes are all made of good leather and fur.
+Regarding this field, I only know superficially.
+Next week we will meet again.
+The topic they chose collided.
+Please wrap this book with a layer of leather.
+His hand has shed a layer of skin.
 He was busy all day and felt very tired.
-The book market has been sluggish.
-He just finished moving and felt very tired.
-Magnets become fatigued after prolonged use.
-No one wants to hire her as a daughter-in-law.
-The law firm wants to hire a legal consultant.
-The government has quelled the unrest.
-This achievement has matched the world record.
-The sea has calmed down.
+The book market has been very sluggish.
+He has just finished moving and feels very tired.
+Permanent magnets become fatigued with prolonged use.
+No one wants to marry her as a daughter-in-law.
+This law firm wants to hire a legal consultant.
+The government has settled the unrest.
+This score has tied the world record.
+The sea surface has calmed down.
 My wound has healed.
-He spent a lot of money again while shopping.
+He spent a lot of money again when he went out this time.
 He broke the world record again in this competition.
-They actually disemboweled themselves.
+They actually cut open their own stomachs.
 This article deeply analyzes this issue.
-He has become a symbol for the entire army.
+He has already become the banner of the entire army.
 There are many flying flags on the street today.
-Don't set your house on fire, come to my place for dinner.
-Don't get upset, keep your mood calm.
-The sea rose during this storm.
-If you have any questions, please rise.
-These two people are involved in a cow.
+Don't set your home on fire, come to my place for dinner.
+Don't get angry, try to keep calm.
+The seawater rose during this storm.
+If you have any questions, please stand up.
+These two people are pulling a cow.
 This matter involves leadership.
-He sneaked into the city.
-He dived into the sea.
+He infiltrated this city.
+He sneaked into the seabed.
 This color is too light.
-I have limited knowledge about clothing colors.
+My knowledge about clothing color is too shallow.
 This plan was shot down.
-He was shot by the police for committing a crime.
-Violate public opinion.
+He was executed by the police for committing a crime.
+Rape public opinion.
 He raped an underage girl.
-This woman is very attractive.
-This batch of rice is popular in the market.
-The people call this person Qingtian.
+This woman is very pretty.
+This batch of rice is very popular on the market.
+The ordinary people call this person "Qingtian".
 The weather in this place rarely sees clear skies.
-A green cloud floated in the sky in this place.
-He has become someone who has reached a high position in society.
-This is a light but meaningful gift.
-There is a thin piece of paper on the table.
-The clouds in the sky seem frivolous.
-By just looking at him, you can tell he is a frivolous person.
-His singing voice captivated the people in the theater.
-This thatched cottage collapsed in the hurricane.
-She unloaded a cart full of coal outside the house.
-She shed tears and poured out her grievances.
-This sentence needs a few incorrect words removed.
-Tomorrow, this panda will go to Beijing.
-Tomorrow is the tug-of-war competition, and our company will send all of our forces.
-After this battle, the enemy's entire army was crushed.
+A green cloud floated across the sky in this place.
+He has already become a successful person.
+This is a thin but meaningful gift.
+There is a thin sheet of paper on the table.
+The clouds in the sky appear to be frivolous.
+At first glance, he gives off the impression of being a frivolous person.
+His singing voice has captivated everyone in the theater.
+This chalet collapsed in the hurricane.
+She dumped a cart full of coal outside the house.
+She shed tears, pouring out all her grievances.
+This sentence needs to remove a few incorrect words.
+Tomorrow, this panda is going to Beijing.
+Tomorrow there will be a tug-of-war competition, our company will mobilize all troops.
+After this battle, the entire enemy army was defeated.
 The forging of a sword requires heat treatment.
-This problem cannot be solved by heat treatment.
-Burning objects require a certain level of heat.
-He has shown great enthusiasm for this matter for a long time.
-The sun usually rises from the east.
+This issue cannot be heat treated.
+Objects require a certain level of heat to combust.
+He has been passionate about this matter for a long time.
+The sun generally rises from the east.
 There are 365 days in a year.
 This food is too bitter to eat.
-Goods entering the country must pass through customs.
+The goods' entrance must go through customs.
 This food is very flavorful.
 This movie is very engaging.
-Please moisten these flowers.
-Apply oil to lubricate the moving parts of the machine.
+Please water these flowers for me.
+Apply some oil to lubricate the moving parts of the machine.
 This persimmon is very astringent.
-This article is very difficult to understand.
+This article is very obscure.
 Please stick out your tongue.
-They captured an enemy soldier and brought him back as a prisoner.
-It is already very late at night.
+They captured a spy from the enemy camp and brought him back.
+It is already late at night.
 This well is very deep.
-My child is starting to lose their baby teeth.
-His chopsticks are all made of bamboo.
-This child needs to tidy up.
-This broken table needs to be fixed.
-This criminal needs to be punished.
-This malfunctioning machine needs to be repaired.
-Unblock the clogged drain.
-Resolve the conflicts between the two villages.
+My child has started to lose his baby teeth.
+His chopsticks are all made of ivory.
+This child needs to be tidied up.
+This broken table needs to be tidied up or This broken table needs cleaning up.
+This criminal needs to be repaired.
+This faulty machine needs to be repaired.
+Clear the blocked drain.
+Resolve the conflict between the two villages.
 There is too much water in this article.
 The water in this pot will boil.
-This money is my private fund.
+This money is my secret stash.
 All the private houses in this area need to be demolished.
-He talks too much, blabbering all day long.
-This glass is shattered.
-This sci-fi film tells the story of an astronaut who makes contact with a boy on Earth.
-She is the first woman astronaut to go into space aboard the Earth's spacecraft.
-The students taught by this teacher excel in various fields.
-The talents near our home are diverse and brilliant.
-Even highly theoretical articles can be written in a popular and understandable way, not necessarily in a cryptic manner.
-He dreamt last night that a celestial being gave him a celestial book.
+His mouth never stops running, he's constantly talking all day long.
+This glass is broken.
+This science fiction film depicts a story about an astronaut who comes in contact with a boy on Earth.
+She is the first female astronaut to go up into space with the Earth's spaceship.
+The students taught by this teacher excel in various industries and fields.
+The peaches and plums at the doorstep are vibrant and colorful.
+Articles with strong theoretical content can also be written in a popular and easy-to-understand manner, and do not necessarily have to be written like a cryptic text.
+He dreamt last night that a fairy gave him a divine book.
 He plans to go to the post office to mail a letter.
-He threw it down the well yesterday.
+He fell into the well yesterday.
 This glass window is very transparent.
-After hearing this sentence, his heart became clear.
-This type of tank has been decommissioned.
-He is a retired military personnel.
-The person who committed the crime must be prosecuted.
-Many families are preparing for the Lunar New Year.
-This book is his newly bought treasure from the bookstore.
+After hearing this sentence, his heart felt clear and bright.
+This type of tank has already been retired.
+He is a retired soldier.
+The person who commits the crime must be dealt with.
+Many families are buying New Year's goods.
+This book is the treasure that he just bought at the bookstore.
 This mother took her newborn baby out to play.
-The teacher asked the student to recite the text he just wrote on the blackboard.
-The school regulations require students to bring a backpack to school.
-He is composing the lyrics for the songs he will sing at tomorrow's concert.
-He is designing the grass shoes he will wear for tomorrow's battle.
+This teacher asked this student to memorize the text that he just wrote on the blackboard.
+The school requires students to carry backpacks when going to school.
+He is currently writing the lyrics to the songs he will sing at tomorrow's evening party.
+He is making straw sandals to wear for tomorrow's battle.
 This magician is performing a magic trick.
-This barren mountain has been transformed into fertile farmland.
-This soldier will wear civilian clothes when he returns home.
-This leader will bring a few plainclothes officers to protect himself during a private visit.
-Please truthfully fill out this form regarding the opening of a clock shop.
-He is currently repairing watches at the clock shop.
-He is accustomed to using tissue paper to wipe his mouth after meals.
-The plane brushed against the mountaintop.
+This barren mountain turns into fertile land.
+This soldier will wear civilian clothes when he goes home.
+This leader will bring several plainclothes guards to protect themselves when they visit privately.
+Please write truthfully about opening a watch store.
+He is repairing a watch at the clock store.
+He is used to wiping his mouth with tissue after finishing the meal.
+The airplane scraped against the mountaintop.
 This is the season when bandits emerge from the mountains.
-Many babies are born during this season.
-He is walking along the road next to this clothing store.
-He is wearing a red shirt.
-He is setting up a tent to sleep in tonight.
-He is boarding a luxurious boat to go home.
+There are many babies being born in this season.
+He is crossing the road beside this clothing store.
+He is currently wearing a red shirt.
+He is setting up the tent for tonight's sleep.
+He is boarding a luxury ship to go home.
 This actor has lost his voice.
-This house has collapsed during the storm.
+This house collapsed in the storm.
 If he resigns, no one can replace his work.
-This train is about to arrive in Shanghai.
-The enemy in this fortress often comes out to harm the people, so the army plans to remove this threat.
-Two nails need to be hammered into the table leg to prevent it from breaking.
-Your eyes are sharp, being able to find the criminal among so many people.
+This train will soon arrive in Shanghai.
+The enemy in this fortress often comes out to harm the people. The army intends to remove this threat.
+The table legs need to be nailed with two nails to prevent cracking.
+Your eyes are so sharp that you can find the criminals among so many people.
 This snake is very poisonous and can instantly kill a person.
-Using wind power to generate electricity is a new energy policy.
-This unit is under enemy attack, and is currently sending messages to headquarters.
-This temple was recently renovated by workers.
-This bomb blew up the tank.
-He is speaking in class, once again making a mistake that should not be made at school.
-He is speaking in class, once again breaking the school's rules.
-The addition of preservatives is strictly prohibited in this food.
-A good reader has their own way of preserving books.
+Using wind energy to generate electricity is a new energy policy.
+This unit is under enemy attack and is currently sending a message to headquarters.
+This temple was just renovated by workers.
+This bomb blew up this tank.
+He talked during class and once again made a mistake that should not be made at school.
+He talked in class again, breaking the school rules once more.
+It is strictly prohibited to add preservatives to this type of food.
+A good reader always has their own preservative when reading.
 This car is driving very fast.
-This knife is slicing very quickly.
-High-voltage wires are currently being laid out here.
-The electrician's blood pressure was measured in the hospital, and their high blood pressure was too high.
-He has a lump on his skin.
-After experiencing a betrayal, there is a bump in their relationship.
+This knife is very sharp.
+High voltage wires are being installed here.
+This power grid worker is having his blood pressure measured at the hospital, and his systolic pressure is too high.
+There is a bump on his skin.
+After experiencing a betrayal, a knot formed between their relationship.
 This person has no backbone.
 A person has a total of 206 bones.
-You should wrap the zongzi in this type of leaf.
-Do not wrap two different things together.
-She, who works diligently, is a banner for the railway department.
-Every morning, the school's playground raises the national flag.
-This ideology is resurfacing once again.
-The floor becomes damp in the summer.
+You should wrap the zongzi with this kind of leaf.
+You should not wrap two different things together.
+She, who works diligently, is a shining example in the railway department.
+Every morning, the flag is raised in the school playground.
+This kind of thinking is surging back again.
+This floor will get damp in the summer.
 She plans to open a supermarket here.
-Today, the captain's flight mission is to fly a large plane.
-He used to be poor, but now he has become wealthy.
-This house is very spacious.
+The captain's flight mission today is to operate a large aircraft.
+In the past, he was very poor, but now he has become wealthy.
+This house is spacious.
