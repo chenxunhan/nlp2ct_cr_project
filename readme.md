@@ -1,7 +1,7 @@
 # Folder + File Description
-bleurt and CR-NMT-main folders are used for bleurt and CR accuracy of Entity-Aware BERTSCORE evaluation
-dataset folder includes both chinese source text used for translation, and right english translation text of chinese source translated folder includes all translation engines' translation of chinese source text
-code.ipynb is self-descriptive, just read about it
+- bleurt and CR-NMT-main folders are used for bleurt and CR accuracy of Entity-Aware BERTSCORE evaluation
+- dataset folder includes both chinese source text used for translation, and right english translation text of chinese source translated folder includes all translation engines' translation of chinese source text
+- code.ipynb is self-descriptive, just read about it
 
 
 # TASK DESCRIPTION
@@ -31,11 +31,11 @@ Please provide the [TGT] translation for these sentences:
 [SRC]=Chinese [TGT]=English
 
 # PAPER REFERENCES
-[The Box is in the Pen: Evaluating Commonsense Reasoning in Neural Machine Translation](https://aclanthology.org/2020.findings-emnlp.327.pdf)
-[YutongWang1216/CR-NMT/data/cr_testset](https://github.com/YutongWang1216/CR-NMT/tree/main/data/cr_testset)
-[Retrieval Augmentation for Commonsense Reasoning: A Unified Approach](https://arxiv.org/pdf/2210.12887.pdf)
-[Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/abs/2301.08745)
-[How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://arxiv.org/abs/2302.09210)
+- [The Box is in the Pen: Evaluating Commonsense Reasoning in Neural Machine Translation](https://aclanthology.org/2020.findings-emnlp.327.pdf)
+- [YutongWang1216/CR-NMT/data/cr_testset](https://github.com/YutongWang1216/CR-NMT/tree/main/data/cr_testset)
+- [Retrieval Augmentation for Commonsense Reasoning: A Unified Approach](https://arxiv.org/pdf/2210.12887.pdf)
+- [Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/abs/2301.08745)
+- [How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://arxiv.org/abs/2302.09210)
 
 # TBA
 [Retrieval Augmentation for Commonsense Reasoning: A Unified Approach](https://arxiv.org/pdf/2210.12887.pdf)这篇不着急看，如果评测还有很大的提升空间，可以再看看retrieval-based的方法
