@@ -1,0 +1,450 @@
+The invention is made by a great scientist.
+The invention is a robot.
+The concern is a high score.
+Those who care about you are the ones you don't care about.
+The student who made a mistake is being criticized.
+The strict teacher is being criticized.
+The fruits in the orchard are being harvested.
+The fruit farmers are currently harvesting in the orchard.
+The doctor who is currently operating is healthy.
+The patient undergoing surgery is in critical condition.
+What I am currently teaching is knowledge.
+The one I am teaching is a full professor.
+The law is being executed.
+The law enforcement officers are currently on duty.
+The rice in the fields is being harvested.
+The ones who are harvesting are the children of the farmers.
+The computer room is being managed.
+The person currently managing is a dedicated administrator of the school.
+The captured is the prey.
+The captivated is the hunter.
+The drum is being struck.
+The one being knocked and tapped on is a drummer who has been working in the drumming industry for decades.
+Playing the role of a dragon.
+The role played by is Jet Li.
+The research is on corporate culture.
+The study focuses on enterprise research personnel.
+The leap is the canyon.
+A professional athlete who leaps and bounds.
+The discovery is a new ancient civilization.
+The discovery was an archaeology professor.
+Investigate the economic development situation of the towns and villages.
+Researching the economic professors of the townships.
+Record the experiment data in a table.
+Record the results of the experiment.
+Ate the tourist's alligator.
+Ate the tourist's cat.
+Lost their adorable dog.
+Biting his family's stray dog.
+The spoon for digging watermelons.
+Peel the watermelon.
+Repair the table legs.
+The hammer for repairing the table.
+To visit another country's president.
+Visit tourist attractions in other countries.
+Programmer who searches for programs.
+Search for the code of the program.
+The stones in the Sanjiaoheli River.
+Three stones in the river.
+Two horses on the grass.
+Two horses on two patches of grass.
+Three sets of toy car batteries.
+The batteries for three toy cars.
+Four cameras on the table.
+Four cameras on the tables.
+Two kitchen knives.
+The knives in the two kitchens.
+The articles in the four newspapers.
+Four articles in the newspaper.
+Visited millennium-old ancient architecture.
+Visited ancient buildings for five hours.
+Selected ten minutes of wood.
+Selected a thousand-year-old wood.
+Played the role for two minutes.
+Played the role of a character from 500 years ago.
+I wrote 5 consecutive conference reports.
+I wrote the meeting report continuously for 5 hours.
+Spoke about history for 2 hours.
+Told a hundred years of history.
+I drew a picture for 6 minutes.
+I painted 6 pictures.
+Did 5 test papers.
+I did the exam paper for 5 minutes.
+Sales of fast-selling products.
+Sell expensive goods.
+Build quick buildings.
+Build a huge building.
+Explore uninhabited areas.
+The area that has been thoroughly investigated.
+Watch an exciting movie.
+Watch a comfortable movie.
+Smooth procurement of products.
+Purchase fragile products.
+Researching difficult problems.
+Research the problem thoroughly.
+Convenient to operate machine.
+Operate important machinery.
+Imprisoning fierce criminals.
+Imprisoning a tightly guarded criminal.
+Hand in your homework to the teacher.
+Hand over the red workbook.
+Donate books to the library.
+Donate books to foreign countries.
+Sent a birthday gift to the leader.
+Give a birthday gift.
+The legs of the blanket and the stool are both broken.
+His clothes sleeves and cane are both dirty.
+The computer screen and chair need to be neatly arranged.
+The computer and the sofa on the table both need to be thrown away.
+The security personnel working at this mall are communicating with the police outside the building.
+The birds and fish in the sky are his prey.
+The harvest is a hardworking farmer.
+The harvest is delicious fruit.
+The creation is a scientist.
+The creation is a robot.
+Severe crackdown is on theft.
+The severely cracked down ones are the well-trained special police officers.
+The investigation is about this corruption and bribery case.
+The investigation is about the personnel involved in embezzlement in this case.
+The missed opportunity is this rare chance.
+The missed opportunity is for the athletes who have been waiting for a long time.
+The performers are frontline actors from the province.
+The performance is Sun Wukong from Journey to the West.
+The smartphone launched is a revolutionary one.
+The company that was launched is a great company.
+Research is done by frontline scientists.
+The research field is an emerging area internationally.
+The research is on internationally renowned mathematics problems.
+The research is on internationally renowned mathematicians who specialize in solving mathematical problems.
+The solution is five internationally renowned math problems.
+The solution is five internationally renowned mathematicians.
+Killed the landlord's cat.
+The assassin killed the landlord.
+The personnel of the studio that decorates houses.
+The studio room for renovating the house.
+Study the overall architecture of the code.
+The overall architect of the code research.
+Visit the internal structure of the Grand Palace.
+Visitors to the Grand Palace's interior.
+Sanction Iran's economy.
+Sanctioning Iran is a major economic power.
+Developing the economic level of the country.
+Development of national economic experts.
+Dismantle the criminal gang involved in economic crimes.
+The police who combat economic crimes.
+Suspects investigated in major cases.
+Investigation of criminal police officers suspected of major cases.
+Travelers met during the process of traveling that I like.
+A traveler who enjoys the process of traveling.
+A piece of clothing in the wardrobe.
+Some clothes in a cupboard.
+The monk in the three temples.
+Three monks in the temple.
+Four computers on the table.
+Four computers on the table.
+Five phones on the bed.
+Five phones on the bed.
+The cover person on six magazines.
+Cover personalities on six magazines.
+The fresh flowers among the seven potted plants.
+The fresh flowers in the seven potted plants.
+Eight coins in the wallet.
+The coins in the eight wallets.
+The actors in the nine movies.
+The plot of nine movies.
+The teacher talked about history for three days.
+The teacher has taught history for three thousand years.
+Performed a historical drama for two days.
+Performed a historical drama that spans two thousand years.
+I have been doing homework for three days.
+I wrote three assignments.
+Sold cars for more than ten years.
+Sold a car that has been owned for over ten years.
+I have been watching movies for over ten years.
+I watched a movie from more than ten years ago.
+Ran the store for more than ten years.
+I have been running the shop for over ten years.
+Once an important turning point in history.
+Significant turning point in history.
+Difficult-to-purchase goods.
+Purchase inexpensive goods.
+Difficult-to-sell products.
+Selling cheap and inferior products.
+An exciting plot of a TV drama.
+An exciting TV drama in the evening.
+A pleasant atmosphere.
+Enjoy the joyful atmosphere.
+Study simple problems.
+The research is completed.
+Strict examiner.
+Study the students who are falling behind.
+The cat bit and killed the hunter.
+The tiger bit the fox to death.
+The hunter's dog was killed.
+The tiger killed the hunter.
+Ate the chocolate on the cake.
+The child who ate the cake.
+The girl fell in love with a celebrity.
+Fell in love with the works of a celebrity.
+Wrongly blamed the parents' good intentions.
+Wrongly blamed the parents' little child.
+Repaired the windows in the room.
+Repaired the room's decoration worker.
+The sharks and tigers in the water are both fierce animals.
+He took a photo that captured both the bird in the sky and the cheetah.
+The harvested ones are the ripe fruits in the orchard.
+The ones who did the harvesting are professional fruit farmers in the orchard.
+The doctor who is currently performing the surgery is the most experienced in clinical practice at the hospital.
+The patient undergoing surgery is suffering from a serious illness.
+Conduct research on the economy of rural towns.
+Researching economists at the town level.
+Record the entire process of the experiment.
+The biologist records experiments.
+The knife for peeling apples.
+Peel the apple.
+Repair the legs of the wooden table.
+The saw used to repair the wooden table.
+Three school lab technicians.
+The experimentalists from the three schools.
+Five pieces of furniture in the house.
+Furniture in five buildings.
+Ten televisions in the shopping mall.
+TVs in ten shopping malls.
+There are six chairs in the room.
+Chairs in six rooms.
+Visited the century-old palace.
+Visited the palace for five minutes.
+I did homework for two consecutive days.
+I completed two consecutive homework assignments.
+I have been painting for 4 days.
+I painted four paintings.
+The emotion of fear that the suspect is experiencing.
+The scene that the suspect is afraid of.
+Food with a unique taste.
+Unique food from the north.
+The fast-selling product.
+Sell expensive goods.
+The congee smells delicious.
+Taste delicious porridge.
+A comfortable sofa to touch.
+Choose a comfortable sofa.
+Buy cheap goods.
+Convenient goods for buying and selling.
+It's great that he came in first place in the exam.
+His exam results are too good.
+This behavior is encouraged.
+The encourager is an encourager.
+The commendation goes to this heroic behavior.
+The award recipient is the presenter of the award.
+The crackdown targets theft behavior.
+The one cracking down hard is the highly trained special police.
+The investigation is about this case.
+The survey is conducted by specially-appointed criminal investigation experts from the province.
+What was confiscated are a large quantity of smuggled goods.
+The officer who was caught was involved in smuggling activities.
+The research is on internationally renowned mathematical problems.
+The research is on internationally renowned mathematicians.
+Renovate the bedroom of the house.
+The construction workers for house renovation.
+A programmer who researches code.
+Study the details of the code.
+The great person who changed the whole world.
+Change the whole world's structure.
+The key figure to solve this difficult math problem.
+The partial solution to this math problem.
+The police officers investigating traffic accidents.
+Investigating the cause of the traffic accident.
+Enjoy the process of traveling.
+Travelers who like to travel.
+The clothes in two sets of cabinets.
+The clothes in the two cabinets.
+There are three umbrellas on the table.
+Three umbrellas on the table.
+Four candles on the four cakes.
+Four candles on four cakes.
+The champion of the five games.
+The champion of the five competitions.
+Six rifles in the warehouse.
+Six rifles in the warehouse.
+Two tickets for the concert.
+Tickets for two concerts.
+Experienced teachers with a wealth of school experience.
+The school has sufficient number of teachers.
+The army is equipped with sophisticated weapons.
+The soldiers in the army are well-equipped.
+Explain the problem clearly.
+Explain complex problems.
+Inheriting and developing traditional culture.
+Inheriting traditional cultural painting.
+Sold the hunter's dog.
+The hunter sold his dog.
+Hurtful words that have harmed others.
+Hurt someone's feelings.
+The child moved their parents.
+Moved the hearts of the parents.
+Ignited the flames of revenge within the heart.
+Ignited the warm image in my heart.
+Repaired the windows in the room.
+The worker repaired the room.
+The judge is conducting a trial.
+The judgment is for a criminal.
+The one teaching is my teacher.
+The students who are taught are those who love to learn.
+I like the writing style of this article.
+The literature-minded youth who likes this article.
+Listen to the lyrics of touching music.
+The audience who listens to captivating music.
+Appreciate the enchanting scenery of the garden.
+Appreciating the garden, the tourists.
+Walking in the space station in space.
+The astronaut strolls in space.
+The historical landmarks are being destroyed.
+The disruptive ones are tourists without manners.
+The local protected animals were slaughtered.
+The slaughter was done by greedy poachers.
+Trample on the flowers in the garden.
+The tourist who tramples on the garden.
+Surround and annihilate the bandits' stronghold.
+The regular army surrounds and attacks the bandits.
+The captured territory belongs to the rebels.
+Conquered by regular military forces.
+The one who repairs is a car mechanic.
+The repaired car is old and dilapidated.
+The volunteers who provide assistance are volunteers who help poverty alleviation.
+The aid is for the elderly in impoverished areas.
+Assist left-behind children in remote areas.
+Enthusiastic volunteers who assist remote areas.
+The prediction is for the result of the next game.
+The prediction is for a famous fortune teller here.
+Predict the future fortune.
+Fortuneteller who divines the future.
+Calculate the total salary of the employees.
+Accountant calculating employee salaries.
+The person who established the political party.
+The party constitution for creating a political party.
+The climax of the musical performance.
+The pianist playing the musical composition.
+The performance is by Beethoven in major key.
+The performance is Beethoven's.
+The competition is for class monitor/monitor captain.
+The students in the class are running for election.
+The collection consists of Han Dynasty cultural relics.
+The collector specializes in collecting artifacts from the Han Dynasty.
+The target is 100 meters away for shooting.
+The shooter is a professional sniper.
+Hit the bullseye.
+The shooter who hit the target.
+A river on a plain.
+A river on a flat plain.
+Two desk lamps in the room.
+The desk lamps in the two rooms.
+The mineral water on the three bottles table.
+Three bottles of mineral water on the table.
+Four exam papers.
+The examination papers for four subjects.
+Five pairs of socks in the drawer.
+Socks in five drawers.
+The pill in six bottles.
+Pills in six bottles.
+I have enjoyed several hours of ancient villages.
+I appreciated the ancient village that was hundreds of years old.
+I studied the foreign language course for five hours.
+I have studied five foreign language courses.
+I wrote six calligraphy exercises.
+I have been practicing calligraphy for six days.
+Played a beautiful piece of music.
+Played wonderful music all day long.
+Inspect the bullets of the firearm.
+The police officer is inspecting the firearms.
+The subsidy is for students from poor families.
+The subsidy is provided by the national institution.
+The teachers from three examination rooms gathered together for a chat.
+The teachers from three exam rooms gathered together to chat.
+The rescue is for the victims of the disaster.
+The rescuers are firefighters.
+Learning the articles in the textbook.
+Students studying textbooks.
+Building tall buildings in the city.
+The workers who build the city.
+I read newspapers for ten days.
+I read ten newspapers.
+The doctors from the three hospitals sit together for a meeting.
+Three doctors from the hospital sat together for a meeting.
+The performance is a serious program.
+The performance has interesting programs.
+Study courses with diligence.
+Learn simple courses.
+Buying contraband is difficult.
+Purchase rare contraband goods.
+Sell neighbor's exercise book.
+Sell the extra exercise books.
+Give the leader a gift.
+Give a coming-of-age gift.
+The birds and fish in the sky all have a common ancestor.
+The clouds in the sky are interwoven with the rain.
+The teachers and police officers in the school both belong to public servants.
+The teachers and students in the school get along well.
+Oxygen and water are both indispensable in the air.
+Oxygen and carbon dioxide are indispensable in the air.
+Two glass windows in the room.
+The windows in the two houses.
+The title of the five exams.
+The questions for the three exams.
+The theorems in the two books.
+The theorems in both books.
+The cow from the slaughterhouse with four heads.
+Four cows in the slaughterhouse.
+The traditional Chinese medicine from two pharmacies.
+The traditional Chinese medicine at two drugstores.
+A book from a bookstore.
+The books from two bookstores.
+The person being carried is the examinee.
+The test paper is carried in between.
+The person conducting the transaction is an elephant.
+The two wealthy men are conducting a transaction.
+Taste is a wonderful story.
+The old man on the roadside is tasteful.
+The explanation is about the history of this ancient building.
+The guide is very professional in explaining.
+It is a segment of a video.
+The intercepted are students who are looking for pictures.
+The calculation is a relatively difficult physics problem.
+The calculation is our representative for the math class in our class.
+The conductor is leading an important soccer game.
+The person in charge is a professional soccer coach.
+The leadership is in charge of major engineering projects.
+The leader is the leader of this country.
+The competition is about mathematical ability.
+The two math geniuses are having a competition.
+The carving is of a carpenter.
+The sculpture is made of marble.
+Check the leader of the textbook.
+Check the price of the textbook.
+Eat the fish tail.
+The customer who is eating fish.
+Discussing mathematical formulas.
+Conference on discussing mathematics.
+The towel for wiping the table.
+The table legs that wipe the table.
+Lost direction.
+Lost tourists.
+The revelation of the truth's mystery.
+The record of exposing the truth.
+Record scenes of reality.
+Record the film of reality.
+Covering the face with a veil.
+Covered by acne on the face.
+Explanation of the method to solve the problem.
+The teacher who explains the topic.
+Retrieve the inventory list.
+Retrieve the leader of the goods.
+Government officials are inspecting private companies.
+Inspect the operation of private companies.
+Set up a fast stage.
+Build a shiny stage.
+Cultivate careful bacteria.
+Cultivate small bacteria.
+Review the sloppy documents.
+Review important documents.
+Demolish the slow-building.
+Demolish the dilapidated building.
